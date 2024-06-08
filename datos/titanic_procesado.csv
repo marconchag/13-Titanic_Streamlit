@@ -1,0 +1,892 @@
+PassengerId,Survived,Pclass,Sex,Age,Fare,Embarked,TpFare,Titulo,Apellido,Nombre,Año_de_Nacimiento,Familiares,Familia
+1,0,3ª Clase,Hombres,22.0,7.25,S,Muy Barato,Mr,Braund,Owen,1890,1,Con Familia
+2,1,1ª Clase,Mujeres,38.0,71.2833,C,Muy Caro,Mrs,Cumings,John,1874,1,Con Familia
+3,1,3ª Clase,Mujeres,26.0,7.925,S,Barato,Miss,Heikkinen,Laina,1886,0,Sin Familia
+4,1,1ª Clase,Mujeres,35.0,53.1,S,Muy Caro,Mrs,Futrelle,Jacques,1877,1,Con Familia
+5,0,3ª Clase,Hombres,35.0,8.05,S,Barato,Mr,Allen,William,1877,0,Sin Familia
+6,0,3ª Clase,Hombres,32.0,8.4583,Q,Barato,Mr,Moran,James,1880,0,Sin Familia
+7,0,1ª Clase,Hombres,54.0,51.8625,S,Muy Caro,Mr,McCarthy,Timothy,1858,0,Sin Familia
+8,0,3ª Clase,Hombres,2.0,21.075,S,Caro,Master,Palsson,Gosta,1910,4,Con Familia
+9,1,3ª Clase,Mujeres,27.0,11.1333,S,Barato,Mrs,Johnson,Oscar,1885,2,Con Familia
+10,1,2ª Clase,Mujeres,14.0,30.0708,C,Caro,Mrs,Nasser,Nicholas,1898,1,Con Familia
+11,1,3ª Clase,Mujeres,4.0,16.7,S,Caro,Miss,Sandstrom,Marguerite,1908,2,Con Familia
+12,1,1ª Clase,Mujeres,58.0,26.55,S,Caro,Miss,Bonnell,Elizabeth,1854,0,Sin Familia
+13,0,3ª Clase,Hombres,20.0,8.05,S,Barato,Mr,Saundercock,William,1892,0,Sin Familia
+14,0,3ª Clase,Hombres,39.0,31.275,S,Muy Caro,Mr,Andersson,Anders,1873,6,Con Familia
+15,0,3ª Clase,Mujeres,14.0,7.8542,S,Muy Barato,Miss,Vestrom,Hulda,1898,0,Sin Familia
+16,1,2ª Clase,Mujeres,55.0,16.0,S,Caro,Mrs,Hewlett,,1857,0,Sin Familia
+17,0,3ª Clase,Hombres,2.0,29.125,Q,Caro,Master,Rice,Eugene,1910,5,Con Familia
+18,1,2ª Clase,Hombres,32.0,13.0,S,Barato,Mr,Williams,Charles,1880,0,Sin Familia
+19,0,3ª Clase,Mujeres,31.0,18.0,S,Caro,Mrs,Planke,Julius,1881,1,Con Familia
+20,1,3ª Clase,Mujeres,36.0,7.225,C,Muy Barato,Mrs,Masselmani,Fatima,1876,0,Sin Familia
+21,0,2ª Clase,Hombres,35.0,26.0,S,Caro,Mr,Fynney,Joseph,1877,0,Sin Familia
+22,1,2ª Clase,Hombres,34.0,13.0,S,Barato,Mr,Beesley,Lawrence,1878,0,Sin Familia
+23,1,3ª Clase,Mujeres,15.0,8.0292,Q,Barato,Miss,McGowan,Anna,1897,0,Sin Familia
+24,1,1ª Clase,Hombres,28.0,35.5,S,Muy Caro,Mr,Sloper,William,1884,0,Sin Familia
+25,0,3ª Clase,Mujeres,8.0,21.075,S,Caro,Miss,Palsson,Torborg,1904,4,Con Familia
+26,1,3ª Clase,Mujeres,38.0,31.3875,S,Muy Caro,Mrs,Asplund,Carl,1874,6,Con Familia
+27,0,3ª Clase,Hombres,32.0,7.225,C,Muy Barato,Mr,Emir,Farred,1880,0,Sin Familia
+28,0,1ª Clase,Hombres,19.0,263.0,S,Muy Caro,Mr,Fortune,Charles,1893,5,Con Familia
+29,1,3ª Clase,Mujeres,22.0,7.8792,Q,Muy Barato,Miss,Dwyer,Ellen,1890,0,Sin Familia
+30,0,3ª Clase,Hombres,32.0,7.8958,S,Muy Barato,Mr,Todoroff,Lalio,1880,0,Sin Familia
+31,0,1ª Clase,Hombres,40.0,27.7208,C,Caro,Don,Uruchurtu,Manuel,1872,0,Sin Familia
+32,1,1ª Clase,Mujeres,36.0,146.5208,C,Muy Caro,Mrs,Spencer,William,1876,1,Con Familia
+33,1,3ª Clase,Mujeres,22.0,7.75,Q,Muy Barato,Miss,Glynn,Mary,1890,0,Sin Familia
+34,0,2ª Clase,Hombres,66.0,10.5,S,Barato,Mr,Wheadon,Edward,1846,0,Sin Familia
+35,0,1ª Clase,Hombres,28.0,82.1708,C,Muy Caro,Mr,Meyer,Edgar,1884,1,Con Familia
+36,0,1ª Clase,Hombres,42.0,52.0,S,Muy Caro,Mr,Holverson,Alexander,1870,1,Con Familia
+37,1,3ª Clase,Hombres,32.0,7.2292,C,Muy Barato,Mr,Mamee,Hanna,1880,0,Sin Familia
+38,0,3ª Clase,Hombres,21.0,8.05,S,Barato,Mr,Cann,Ernest,1891,0,Sin Familia
+39,0,3ª Clase,Mujeres,18.0,18.0,S,Caro,Miss,Planke,Augusta,1894,2,Con Familia
+40,1,3ª Clase,Mujeres,14.0,11.2417,C,Barato,Miss,Yarred,Jamila,1898,1,Con Familia
+41,0,3ª Clase,Mujeres,40.0,9.475,S,Barato,Mrs,Ahlin,Johan,1872,1,Con Familia
+42,0,2ª Clase,Mujeres,27.0,21.0,S,Caro,Mrs,Turpin,William,1885,1,Con Familia
+43,0,3ª Clase,Hombres,32.0,7.8958,C,Muy Barato,Mr,Kraeff,Theodor,1880,0,Sin Familia
+44,1,2ª Clase,Mujeres,3.0,41.5792,C,Muy Caro,Miss,Laroche,Simonne,1909,3,Con Familia
+45,1,3ª Clase,Mujeres,19.0,7.8792,Q,Muy Barato,Miss,Devaney,Margaret,1893,0,Sin Familia
+46,0,3ª Clase,Hombres,32.0,8.05,S,Barato,Mr,Rogers,William,1880,0,Sin Familia
+47,0,3ª Clase,Hombres,32.0,15.5,Q,Caro,Mr,Lennon,Denis,1880,1,Con Familia
+48,1,3ª Clase,Mujeres,22.0,7.75,Q,Muy Barato,Miss,Driscoll,Bridget,1890,0,Sin Familia
+49,0,3ª Clase,Hombres,32.0,21.6792,C,Caro,Mr,Samaan,Youssef,1880,2,Con Familia
+50,0,3ª Clase,Mujeres,18.0,17.8,S,Caro,Mrs,Franchi,Josef,1894,1,Con Familia
+51,0,3ª Clase,Hombres,7.0,39.6875,S,Muy Caro,Master,Panula,Juha,1905,5,Con Familia
+52,0,3ª Clase,Hombres,21.0,7.8,S,Muy Barato,Mr,Nosworthy,Richard,1891,0,Sin Familia
+53,1,1ª Clase,Mujeres,49.0,76.7292,C,Muy Caro,Mrs,Harper,Henry,1863,1,Con Familia
+54,1,2ª Clase,Mujeres,29.0,26.0,S,Caro,Mrs,Faunthorpe,Lizzie,1883,1,Con Familia
+55,0,1ª Clase,Hombres,65.0,61.9792,C,Muy Caro,Mr,Ostby,Engelhart,1847,1,Con Familia
+56,1,1ª Clase,Hombres,32.0,35.5,S,Muy Caro,Mr,Woolner,Hugh,1880,0,Sin Familia
+57,1,2ª Clase,Mujeres,21.0,10.5,S,Barato,Miss,Rugg,Emily,1891,0,Sin Familia
+58,0,3ª Clase,Hombres,28.5,7.2292,C,Muy Barato,Mr,Novel,Mansouer,1884,0,Sin Familia
+59,1,2ª Clase,Mujeres,5.0,27.75,S,Caro,Miss,West,Constance,1907,3,Con Familia
+60,0,3ª Clase,Hombres,11.0,46.9,S,Muy Caro,Master,Goodwin,William,1901,7,Con Familia
+61,0,3ª Clase,Hombres,22.0,7.2292,C,Muy Barato,Mr,Sirayanian,Orsen,1890,0,Sin Familia
+62,1,1ª Clase,Mujeres,38.0,80.0,S,Muy Caro,Miss,Icard,Amelie,1874,0,Sin Familia
+63,0,1ª Clase,Hombres,45.0,83.475,S,Muy Caro,Mr,Harris,Henry,1867,1,Con Familia
+64,0,3ª Clase,Hombres,4.0,27.9,S,Caro,Master,Skoog,Harald,1908,5,Con Familia
+65,0,1ª Clase,Hombres,32.0,27.7208,C,Caro,Mr,Stewart,Albert,1880,0,Sin Familia
+66,1,3ª Clase,Hombres,5.0,15.2458,C,Caro,Master,Moubarek,Gerios,1907,2,Con Familia
+67,1,2ª Clase,Mujeres,29.0,10.5,S,Barato,Mrs,Nye,,1883,0,Sin Familia
+68,0,3ª Clase,Hombres,19.0,8.1583,S,Barato,Mr,Crease,Ernest,1893,0,Sin Familia
+69,1,3ª Clase,Mujeres,17.0,7.925,S,Barato,Miss,Andersson,Erna,1895,6,Con Familia
+70,0,3ª Clase,Hombres,26.0,8.6625,S,Barato,Mr,Kink,Vincenz,1886,2,Con Familia
+71,0,2ª Clase,Hombres,32.0,10.5,S,Barato,Mr,Jenkin,Stephen,1880,0,Sin Familia
+72,0,3ª Clase,Mujeres,16.0,46.9,S,Muy Caro,Miss,Goodwin,Lillian,1896,7,Con Familia
+73,0,2ª Clase,Hombres,21.0,73.5,S,Muy Caro,Mr,Hood,Ambrose,1891,0,Sin Familia
+74,0,3ª Clase,Hombres,26.0,14.4542,C,Barato,Mr,Chronopoulos,Apostolos,1886,1,Con Familia
+75,1,3ª Clase,Hombres,32.0,56.4958,S,Muy Caro,Mr,Bing,Lee,1880,0,Sin Familia
+76,0,3ª Clase,Hombres,25.0,7.65,S,Muy Barato,Mr,Moen,Sigurd,1887,0,Sin Familia
+77,0,3ª Clase,Hombres,32.0,7.8958,S,Muy Barato,Mr,Staneff,Ivan,1880,0,Sin Familia
+78,0,3ª Clase,Hombres,32.0,8.05,S,Barato,Mr,Moutal,Rahamin,1880,0,Sin Familia
+79,1,2ª Clase,Hombres,0.83,29.0,S,Caro,Master,Caldwell,Alden,1912,2,Con Familia
+80,1,3ª Clase,Mujeres,30.0,12.475,S,Barato,Miss,Dowdell,Elizabeth,1882,0,Sin Familia
+81,0,3ª Clase,Hombres,22.0,9.0,S,Barato,Mr,Waelens,Achille,1890,0,Sin Familia
+82,1,3ª Clase,Hombres,29.0,9.5,S,Barato,Mr,Sheerlinck,Jan,1883,0,Sin Familia
+83,1,3ª Clase,Mujeres,22.0,7.7875,Q,Muy Barato,Miss,McDermott,Brigdet,1890,0,Sin Familia
+84,0,1ª Clase,Hombres,28.0,47.1,S,Muy Caro,Mr,Carrau,Francisco,1884,0,Sin Familia
+85,1,2ª Clase,Mujeres,17.0,10.5,S,Barato,Miss,Ilett,Bertha,1895,0,Sin Familia
+86,1,3ª Clase,Mujeres,33.0,15.85,S,Caro,Mrs,Backstrom,Karl,1879,3,Con Familia
+87,0,3ª Clase,Hombres,16.0,34.375,S,Muy Caro,Mr,Ford,William,1896,4,Con Familia
+88,0,3ª Clase,Hombres,32.0,8.05,S,Barato,Mr,Slocovski,Selman,1880,0,Sin Familia
+89,1,1ª Clase,Mujeres,23.0,263.0,S,Muy Caro,Miss,Fortune,Mabel,1889,5,Con Familia
+90,0,3ª Clase,Hombres,24.0,8.05,S,Barato,Mr,Celotti,Francesco,1888,0,Sin Familia
+91,0,3ª Clase,Hombres,29.0,8.05,S,Barato,Mr,Christmann,Emil,1883,0,Sin Familia
+92,0,3ª Clase,Hombres,20.0,7.8542,S,Muy Barato,Mr,Andreasson,Paul,1892,0,Sin Familia
+93,0,1ª Clase,Hombres,46.0,61.175,S,Muy Caro,Mr,Chaffee,Herbert,1866,1,Con Familia
+94,0,3ª Clase,Hombres,26.0,20.575,S,Caro,Mr,Dean,Bertram,1886,3,Con Familia
+95,0,3ª Clase,Hombres,59.0,7.25,S,Muy Barato,Mr,Coxon,Daniel,1853,0,Sin Familia
+96,0,3ª Clase,Hombres,32.0,8.05,S,Barato,Mr,Shorney,Charles,1880,0,Sin Familia
+97,0,1ª Clase,Hombres,71.0,34.6542,C,Muy Caro,Mr,Goldschmidt,George,1841,0,Sin Familia
+98,1,1ª Clase,Hombres,23.0,63.3583,C,Muy Caro,Mr,Greenfield,William,1889,1,Con Familia
+99,1,2ª Clase,Mujeres,34.0,23.0,S,Caro,Mrs,Doling,John,1878,1,Con Familia
+100,0,2ª Clase,Hombres,34.0,26.0,S,Caro,Mr,Kantor,Sinai,1878,1,Con Familia
+101,0,3ª Clase,Mujeres,28.0,7.8958,S,Muy Barato,Miss,Petranec,Matilda,1884,0,Sin Familia
+102,0,3ª Clase,Hombres,32.0,7.8958,S,Muy Barato,Mr,Petroff,Pastcho,1880,0,Sin Familia
+103,0,1ª Clase,Hombres,21.0,77.2875,S,Muy Caro,Mr,White,Richard,1891,1,Con Familia
+104,0,3ª Clase,Hombres,33.0,8.6542,S,Barato,Mr,Johansson,Gustaf,1879,0,Sin Familia
+105,0,3ª Clase,Hombres,37.0,7.925,S,Barato,Mr,Gustafsson,Anders,1875,2,Con Familia
+106,0,3ª Clase,Hombres,28.0,7.8958,S,Muy Barato,Mr,Mionoff,Stoytcho,1884,0,Sin Familia
+107,1,3ª Clase,Mujeres,21.0,7.65,S,Muy Barato,Miss,Salkjelsvik,Anna,1891,0,Sin Familia
+108,1,3ª Clase,Hombres,32.0,7.775,S,Muy Barato,Mr,Moss,Albert,1880,0,Sin Familia
+109,0,3ª Clase,Hombres,38.0,7.8958,S,Muy Barato,Mr,Rekic,Tido,1874,0,Sin Familia
+110,1,3ª Clase,Mujeres,22.0,24.15,Q,Caro,Miss,Moran,Bertha,1890,1,Con Familia
+111,0,1ª Clase,Hombres,47.0,52.0,S,Muy Caro,Mr,Porter,Walter,1865,0,Sin Familia
+112,0,3ª Clase,Mujeres,14.5,14.4542,C,Barato,Miss,Zabour,Hileni,1898,1,Con Familia
+113,0,3ª Clase,Hombres,22.0,8.05,S,Barato,Mr,Barton,David,1890,0,Sin Familia
+114,0,3ª Clase,Mujeres,20.0,9.825,S,Barato,Miss,Jussila,Katriina,1892,1,Con Familia
+115,0,3ª Clase,Mujeres,17.0,14.4583,C,Caro,Miss,Attalah,Malake,1895,0,Sin Familia
+116,0,3ª Clase,Hombres,21.0,7.925,S,Barato,Mr,Pekoniemi,Edvard,1891,0,Sin Familia
+117,0,3ª Clase,Hombres,70.5,7.75,Q,Muy Barato,Mr,Connors,Patrick,1842,0,Sin Familia
+118,0,2ª Clase,Hombres,29.0,21.0,S,Caro,Mr,Turpin,William,1883,1,Con Familia
+119,0,1ª Clase,Hombres,24.0,247.5208,C,Muy Caro,Mr,Baxter,Quigg,1888,1,Con Familia
+120,0,3ª Clase,Mujeres,2.0,31.275,S,Muy Caro,Miss,Andersson,Ellis,1910,6,Con Familia
+121,0,2ª Clase,Hombres,21.0,73.5,S,Muy Caro,Mr,Hickman,Stanley,1891,2,Con Familia
+122,0,3ª Clase,Hombres,32.0,8.05,S,Barato,Mr,Moore,Leonard,1880,0,Sin Familia
+123,0,2ª Clase,Hombres,32.5,30.0708,C,Caro,Mr,Nasser,Nicholas,1880,1,Con Familia
+124,1,2ª Clase,Mujeres,32.5,13.0,S,Barato,Miss,Webber,Susan,1880,0,Sin Familia
+125,0,1ª Clase,Hombres,54.0,77.2875,S,Muy Caro,Mr,White,Percival,1858,1,Con Familia
+126,1,3ª Clase,Hombres,12.0,11.2417,C,Barato,Master,Yarred,Elias,1900,1,Con Familia
+127,0,3ª Clase,Hombres,32.0,7.75,Q,Muy Barato,Mr,McMahon,Martin,1880,0,Sin Familia
+128,1,3ª Clase,Hombres,24.0,7.1417,S,Muy Barato,Mr,Madsen,Fridtjof,1888,0,Sin Familia
+129,1,3ª Clase,Mujeres,22.0,22.3583,C,Caro,Miss,Peter,Anna,1890,2,Con Familia
+130,0,3ª Clase,Hombres,45.0,6.975,S,Muy Barato,Mr,Ekstrom,Johan,1867,0,Sin Familia
+131,0,3ª Clase,Hombres,33.0,7.8958,C,Muy Barato,Mr,Drazenoic,Jozef,1879,0,Sin Familia
+132,0,3ª Clase,Hombres,20.0,7.05,S,Muy Barato,Mr,Coelho,Domingos,1892,0,Sin Familia
+133,0,3ª Clase,Mujeres,47.0,14.5,S,Caro,Mrs,Robins,Alexander,1865,1,Con Familia
+134,1,2ª Clase,Mujeres,29.0,26.0,S,Caro,Mrs,Weisz,Leopold,1883,1,Con Familia
+135,0,2ª Clase,Hombres,25.0,13.0,S,Barato,Mr,Sobey,Samuel,1887,0,Sin Familia
+136,0,2ª Clase,Hombres,23.0,15.0458,C,Caro,Mr,Richard,Emile,1889,0,Sin Familia
+137,1,1ª Clase,Mujeres,19.0,26.2833,S,Caro,Miss,Newsom,Helen,1893,2,Con Familia
+138,0,1ª Clase,Hombres,37.0,53.1,S,Muy Caro,Mr,Futrelle,Jacques,1875,1,Con Familia
+139,0,3ª Clase,Hombres,16.0,9.2167,S,Barato,Mr,Osen,Olaf,1896,0,Sin Familia
+140,0,1ª Clase,Hombres,24.0,79.2,C,Muy Caro,Mr,Giglio,Victor,1888,0,Sin Familia
+141,0,3ª Clase,Mujeres,36.0,15.2458,C,Caro,Mrs,Boulos,Joseph,1876,2,Con Familia
+142,1,3ª Clase,Mujeres,22.0,7.75,S,Muy Barato,Miss,Nysten,Anna,1890,0,Sin Familia
+143,1,3ª Clase,Mujeres,24.0,15.85,S,Caro,Mrs,Hakkarainen,Pekka,1888,1,Con Familia
+144,0,3ª Clase,Hombres,19.0,6.75,Q,Muy Barato,Mr,Burke,Jeremiah,1893,0,Sin Familia
+145,0,2ª Clase,Hombres,18.0,11.5,S,Barato,Mr,Andrew,Edgardo,1894,0,Sin Familia
+146,0,2ª Clase,Hombres,19.0,36.75,S,Muy Caro,Mr,Nicholls,Joseph,1893,2,Con Familia
+147,1,3ª Clase,Hombres,27.0,7.7958,S,Muy Barato,Mr,Andersson,August,1885,0,Sin Familia
+148,0,3ª Clase,Mujeres,9.0,34.375,S,Muy Caro,Miss,Ford,Robina,1903,4,Con Familia
+149,0,2ª Clase,Hombres,36.5,26.0,S,Caro,Mr,Navratil,Michel,1876,2,Con Familia
+150,0,2ª Clase,Hombres,42.0,13.0,S,Barato,Rev,Byles,Thomas,1870,0,Sin Familia
+151,0,2ª Clase,Hombres,51.0,12.525,S,Barato,Rev,Bateman,Robert,1861,0,Sin Familia
+152,1,1ª Clase,Mujeres,22.0,66.6,S,Muy Caro,Mrs,Pears,Thomas,1890,1,Con Familia
+153,0,3ª Clase,Hombres,55.5,8.05,S,Barato,Mr,Meo,Alfonzo,1857,0,Sin Familia
+154,0,3ª Clase,Hombres,40.5,14.5,S,Caro,Mr,Billiard,Austin,1872,2,Con Familia
+155,0,3ª Clase,Hombres,32.0,7.3125,S,Muy Barato,Mr,Olsen,Ole,1880,0,Sin Familia
+156,0,1ª Clase,Hombres,51.0,61.3792,C,Muy Caro,Mr,Williams,Charles,1861,1,Con Familia
+157,1,3ª Clase,Mujeres,16.0,7.7333,Q,Muy Barato,Miss,Gilnagh,Katherine,1896,0,Sin Familia
+158,0,3ª Clase,Hombres,30.0,8.05,S,Barato,Mr,Corn,Harry,1882,0,Sin Familia
+159,0,3ª Clase,Hombres,32.0,8.6625,S,Barato,Mr,Smiljanic,Mile,1880,0,Sin Familia
+160,0,3ª Clase,Hombres,5.0,69.55,S,Muy Caro,Master,Sage,Thomas,1907,10,Con Familia
+161,0,3ª Clase,Hombres,44.0,16.1,S,Caro,Mr,Cribb,John,1868,1,Con Familia
+162,1,2ª Clase,Mujeres,40.0,15.75,S,Caro,Mrs,Watt,James,1872,0,Sin Familia
+163,0,3ª Clase,Hombres,26.0,7.775,S,Muy Barato,Mr,Bengtsson,John,1886,0,Sin Familia
+164,0,3ª Clase,Hombres,17.0,8.6625,S,Barato,Mr,Calic,Jovo,1895,0,Sin Familia
+165,0,3ª Clase,Hombres,1.0,39.6875,S,Muy Caro,Master,Panula,Eino,1911,5,Con Familia
+166,1,3ª Clase,Hombres,9.0,20.525,S,Caro,Master,Goldsmith,Frank,1903,2,Con Familia
+167,1,1ª Clase,Mujeres,36.0,55.0,S,Muy Caro,Mrs,Chibnall,,1876,1,Con Familia
+168,0,3ª Clase,Mujeres,45.0,27.9,S,Caro,Mrs,Skoog,William,1867,5,Con Familia
+169,0,1ª Clase,Hombres,32.0,25.925,S,Caro,Mr,Baumann,John,1880,0,Sin Familia
+170,0,3ª Clase,Hombres,28.0,56.4958,S,Muy Caro,Mr,Ling,Lee,1884,0,Sin Familia
+171,0,1ª Clase,Hombres,61.0,33.5,S,Muy Caro,Mr,hoef,Wyckoff,1851,0,Sin Familia
+172,0,3ª Clase,Hombres,4.0,29.125,Q,Caro,Master,Rice,Arthur,1908,5,Con Familia
+173,1,3ª Clase,Mujeres,1.0,11.1333,S,Barato,Miss,Johnson,Eleanor,1911,2,Con Familia
+174,0,3ª Clase,Hombres,21.0,7.925,S,Barato,Mr,Sivola,Antti,1891,0,Sin Familia
+175,0,1ª Clase,Hombres,56.0,30.6958,C,Caro,Mr,Smith,James,1856,0,Sin Familia
+176,0,3ª Clase,Hombres,18.0,7.8542,S,Muy Barato,Mr,Klasen,Klas,1894,2,Con Familia
+177,0,3ª Clase,Hombres,5.0,25.4667,S,Caro,Master,Lefebre,Henry,1907,4,Con Familia
+178,0,1ª Clase,Mujeres,50.0,28.7125,C,Caro,Miss,Isham,Ann,1862,0,Sin Familia
+179,0,2ª Clase,Hombres,30.0,13.0,S,Barato,Mr,Hale,Reginald,1882,0,Sin Familia
+180,0,3ª Clase,Hombres,36.0,0.0,S,Muy Barato,Mr,Leonard,Lionel,1876,0,Sin Familia
+181,0,3ª Clase,Mujeres,22.0,69.55,S,Muy Caro,Miss,Sage,Constance,1890,10,Con Familia
+182,0,2ª Clase,Hombres,32.0,15.05,C,Caro,Mr,Pernot,Rene,1880,0,Sin Familia
+183,0,3ª Clase,Hombres,9.0,31.3875,S,Muy Caro,Master,Asplund,Clarence,1903,6,Con Familia
+184,1,2ª Clase,Hombres,1.0,39.0,S,Muy Caro,Master,Becker,Richard,1911,3,Con Familia
+185,1,3ª Clase,Mujeres,4.0,22.025,S,Caro,Miss,Heilmann,Luise,1908,2,Con Familia
+186,0,1ª Clase,Hombres,32.0,50.0,S,Muy Caro,Mr,Rood,Hugh,1880,0,Sin Familia
+187,1,3ª Clase,Mujeres,36.0,15.5,Q,Caro,Mrs,Brien,Thomas,1876,1,Con Familia
+188,1,1ª Clase,Hombres,45.0,26.55,S,Caro,Mr,Romaine,Charles,1867,0,Sin Familia
+189,0,3ª Clase,Hombres,40.0,15.5,Q,Caro,Mr,Bourke,John,1872,2,Con Familia
+190,0,3ª Clase,Hombres,36.0,7.8958,S,Muy Barato,Mr,Turcin,Stjepan,1876,0,Sin Familia
+191,1,2ª Clase,Mujeres,32.0,13.0,S,Barato,Mrs,Pinsky,,1880,0,Sin Familia
+192,0,2ª Clase,Hombres,19.0,13.0,S,Barato,Mr,Carbines,William,1893,0,Sin Familia
+193,1,3ª Clase,Mujeres,19.0,7.8542,S,Muy Barato,Miss,Jensen,Carla,1893,1,Con Familia
+194,1,2ª Clase,Hombres,3.0,26.0,S,Caro,Master,Navratil,Michel,1909,2,Con Familia
+195,1,1ª Clase,Mujeres,44.0,27.7208,C,Caro,Mrs,Brown,James,1868,0,Sin Familia
+196,1,1ª Clase,Mujeres,58.0,146.5208,C,Muy Caro,Miss,Lurette,Elise,1854,0,Sin Familia
+197,0,3ª Clase,Hombres,32.0,7.75,Q,Muy Barato,Mr,Mernagh,Robert,1880,0,Sin Familia
+198,0,3ª Clase,Hombres,42.0,8.4042,S,Barato,Mr,Olsen,Karl,1870,1,Con Familia
+199,1,3ª Clase,Mujeres,22.0,7.75,Q,Muy Barato,Miss,Madigan,Margaret,1890,0,Sin Familia
+200,0,2ª Clase,Mujeres,24.0,13.0,S,Barato,Miss,Yrois,Henriette,1888,0,Sin Familia
+201,0,3ª Clase,Hombres,28.0,9.5,S,Barato,Mr,Walle,Nestor,1884,0,Sin Familia
+202,0,3ª Clase,Hombres,32.0,69.55,S,Muy Caro,Mr,Sage,Frederick,1880,10,Con Familia
+203,0,3ª Clase,Hombres,34.0,6.4958,S,Muy Barato,Mr,Johanson,Jakob,1878,0,Sin Familia
+204,0,3ª Clase,Hombres,45.5,7.225,C,Muy Barato,Mr,Youseff,Gerious,1867,0,Sin Familia
+205,1,3ª Clase,Hombres,18.0,8.05,S,Barato,Mr,Cohen,Gurshon,1894,0,Sin Familia
+206,0,3ª Clase,Mujeres,2.0,10.4625,S,Barato,Miss,Strom,Telma,1910,1,Con Familia
+207,0,3ª Clase,Hombres,32.0,15.85,S,Caro,Mr,Backstrom,Karl,1880,1,Con Familia
+208,1,3ª Clase,Hombres,26.0,18.7875,C,Caro,Mr,Albimona,Nassef,1886,0,Sin Familia
+209,1,3ª Clase,Mujeres,16.0,7.75,Q,Muy Barato,Miss,Carr,Helen,1896,0,Sin Familia
+210,1,1ª Clase,Hombres,40.0,31.0,C,Caro,Mr,Blank,Henry,1872,0,Sin Familia
+211,0,3ª Clase,Hombres,24.0,7.05,S,Muy Barato,Mr,Ali,Ahmed,1888,0,Sin Familia
+212,1,2ª Clase,Mujeres,35.0,21.0,S,Caro,Miss,Cameron,Clear,1877,0,Sin Familia
+213,0,3ª Clase,Hombres,22.0,7.25,S,Muy Barato,Mr,Perkin,John,1890,0,Sin Familia
+214,0,2ª Clase,Hombres,30.0,13.0,S,Barato,Mr,Givard,Hans,1882,0,Sin Familia
+215,0,3ª Clase,Hombres,32.0,7.75,Q,Muy Barato,Mr,Kiernan,Philip,1880,1,Con Familia
+216,1,1ª Clase,Mujeres,31.0,113.275,C,Muy Caro,Miss,Newell,Madeleine,1881,1,Con Familia
+217,1,3ª Clase,Mujeres,27.0,7.925,S,Barato,Miss,Honkanen,Eliina,1885,0,Sin Familia
+218,0,2ª Clase,Hombres,42.0,27.0,S,Caro,Mr,Jacobsohn,Sidney,1870,1,Con Familia
+219,1,1ª Clase,Mujeres,32.0,76.2917,C,Muy Caro,Miss,Bazzani,Albina,1880,0,Sin Familia
+220,0,2ª Clase,Hombres,30.0,10.5,S,Barato,Mr,Harris,Walter,1882,0,Sin Familia
+221,1,3ª Clase,Hombres,16.0,8.05,S,Barato,Mr,Sunderland,Victor,1896,0,Sin Familia
+222,0,2ª Clase,Hombres,27.0,13.0,S,Barato,Mr,Bracken,James,1885,0,Sin Familia
+223,0,3ª Clase,Hombres,51.0,8.05,S,Barato,Mr,Green,George,1861,0,Sin Familia
+224,0,3ª Clase,Hombres,32.0,7.8958,S,Muy Barato,Mr,Nenkoff,Christo,1880,0,Sin Familia
+225,1,1ª Clase,Hombres,38.0,90.0,S,Muy Caro,Mr,Hoyt,Frederick,1874,1,Con Familia
+226,0,3ª Clase,Hombres,22.0,9.35,S,Barato,Mr,Berglund,Karl,1890,0,Sin Familia
+227,1,2ª Clase,Hombres,19.0,10.5,S,Barato,Mr,Mellors,William,1893,0,Sin Familia
+228,0,3ª Clase,Hombres,20.5,7.25,S,Muy Barato,Mr,Lovell,John,1892,0,Sin Familia
+229,0,2ª Clase,Hombres,18.0,13.0,S,Barato,Mr,Fahlstrom,Arne,1894,0,Sin Familia
+230,0,3ª Clase,Mujeres,22.0,25.4667,S,Caro,Miss,Lefebre,Mathilde,1890,4,Con Familia
+231,1,1ª Clase,Mujeres,35.0,83.475,S,Muy Caro,Mrs,Harris,Henry,1877,1,Con Familia
+232,0,3ª Clase,Hombres,29.0,7.775,S,Muy Barato,Mr,Larsson,Bengt,1883,0,Sin Familia
+233,0,2ª Clase,Hombres,59.0,13.5,S,Barato,Mr,Sjostedt,Ernst,1853,0,Sin Familia
+234,1,3ª Clase,Mujeres,5.0,31.3875,S,Muy Caro,Miss,Asplund,Lillian,1907,6,Con Familia
+235,0,2ª Clase,Hombres,24.0,10.5,S,Barato,Mr,Leyson,Robert,1888,0,Sin Familia
+236,0,3ª Clase,Mujeres,22.0,7.55,S,Muy Barato,Miss,Harknett,Alice,1890,0,Sin Familia
+237,0,2ª Clase,Hombres,44.0,26.0,S,Caro,Mr,Hold,Stephen,1868,1,Con Familia
+238,1,2ª Clase,Mujeres,8.0,26.25,S,Caro,Miss,Collyer,Marjorie,1904,2,Con Familia
+239,0,2ª Clase,Hombres,19.0,10.5,S,Barato,Mr,Pengelly,Frederick,1893,0,Sin Familia
+240,0,2ª Clase,Hombres,33.0,12.275,S,Barato,Mr,Hunt,George,1879,0,Sin Familia
+241,0,3ª Clase,Mujeres,22.0,14.4542,C,Barato,Miss,Zabour,Thamine,1890,1,Con Familia
+242,1,3ª Clase,Mujeres,22.0,15.5,Q,Caro,Miss,Murphy,Katherine,1890,1,Con Familia
+243,0,2ª Clase,Hombres,29.0,10.5,S,Barato,Mr,Coleridge,Reginald,1883,0,Sin Familia
+244,0,3ª Clase,Hombres,22.0,7.125,S,Muy Barato,Mr,Maenpaa,Matti,1890,0,Sin Familia
+245,0,3ª Clase,Hombres,30.0,7.225,C,Muy Barato,Mr,Attalah,Sleiman,1882,0,Sin Familia
+246,0,1ª Clase,Hombres,44.0,90.0,Q,Muy Caro,Dr,Minahan,William,1868,2,Con Familia
+247,0,3ª Clase,Mujeres,25.0,7.775,S,Muy Barato,Miss,Lindahl,Agda,1887,0,Sin Familia
+248,1,2ª Clase,Mujeres,24.0,14.5,S,Caro,Mrs,Hamalainen,William,1888,2,Con Familia
+249,1,1ª Clase,Hombres,37.0,52.5542,S,Muy Caro,Mr,Beckwith,Richard,1875,2,Con Familia
+250,0,2ª Clase,Hombres,54.0,26.0,S,Caro,Rev,Carter,Ernest,1858,1,Con Familia
+251,0,3ª Clase,Hombres,32.0,7.25,S,Muy Barato,Mr,Reed,James,1880,0,Sin Familia
+252,0,3ª Clase,Mujeres,29.0,10.4625,S,Barato,Mrs,Strom,Wilhelm,1883,2,Con Familia
+253,0,1ª Clase,Hombres,62.0,26.55,S,Caro,Mr,Stead,William,1850,0,Sin Familia
+254,0,3ª Clase,Hombres,30.0,16.1,S,Caro,Mr,Lobb,William,1882,1,Con Familia
+255,0,3ª Clase,Mujeres,41.0,20.2125,S,Caro,Mrs,Rosblom,Viktor,1871,2,Con Familia
+256,1,3ª Clase,Mujeres,29.0,15.2458,C,Caro,Mrs,Touma,Darwis,1883,2,Con Familia
+257,1,1ª Clase,Mujeres,36.0,79.2,C,Muy Caro,Mrs,Thorne,Gertrude,1876,0,Sin Familia
+258,1,1ª Clase,Mujeres,30.0,86.5,S,Muy Caro,Miss,Cherry,Gladys,1882,0,Sin Familia
+259,1,1ª Clase,Mujeres,35.0,512.3292,C,Muy Caro,Miss,Ward,Anna,1877,0,Sin Familia
+260,1,2ª Clase,Mujeres,50.0,26.0,S,Caro,Mrs,Parrish,,1862,1,Con Familia
+261,0,3ª Clase,Hombres,32.0,7.75,Q,Muy Barato,Mr,Smith,Thomas,1880,0,Sin Familia
+262,1,3ª Clase,Hombres,3.0,31.3875,S,Muy Caro,Master,Asplund,Edvin,1909,6,Con Familia
+263,0,1ª Clase,Hombres,52.0,79.65,S,Muy Caro,Mr,Taussig,Emil,1860,2,Con Familia
+264,0,1ª Clase,Hombres,40.0,0.0,S,Muy Barato,Mr,Harrison,William,1872,0,Sin Familia
+265,0,3ª Clase,Mujeres,22.0,7.75,Q,Muy Barato,Miss,Henry,Delia,1890,0,Sin Familia
+266,0,2ª Clase,Hombres,36.0,10.5,S,Barato,Mr,Reeves,David,1876,0,Sin Familia
+267,0,3ª Clase,Hombres,16.0,39.6875,S,Muy Caro,Mr,Panula,Ernesti,1896,5,Con Familia
+268,1,3ª Clase,Hombres,25.0,7.775,S,Muy Barato,Mr,Persson,Ernst,1887,1,Con Familia
+269,1,1ª Clase,Mujeres,58.0,153.4625,S,Muy Caro,Mrs,Graham,William,1854,1,Con Familia
+270,1,1ª Clase,Mujeres,35.0,135.6333,S,Muy Caro,Miss,Bissette,Amelia,1877,0,Sin Familia
+271,0,1ª Clase,Hombres,32.0,31.0,S,Caro,Mr,Cairns,Alexander,1880,0,Sin Familia
+272,1,3ª Clase,Hombres,25.0,0.0,S,Muy Barato,Mr,Tornquist,William,1887,0,Sin Familia
+273,1,2ª Clase,Mujeres,41.0,19.5,S,Caro,Mrs,Mellinger,,1871,1,Con Familia
+274,0,1ª Clase,Hombres,37.0,29.7,C,Caro,Mr,Natsch,Charles,1875,1,Con Familia
+275,1,3ª Clase,Mujeres,22.0,7.75,Q,Muy Barato,Miss,Healy,Hanora,1890,0,Sin Familia
+276,1,1ª Clase,Mujeres,63.0,77.9583,S,Muy Caro,Miss,Andrews,Kornelia,1849,1,Con Familia
+277,0,3ª Clase,Mujeres,45.0,7.75,S,Muy Barato,Miss,Lindblom,Augusta,1867,0,Sin Familia
+278,0,2ª Clase,Hombres,32.0,0.0,S,Muy Barato,Mr,Parkes,Francis,1880,0,Sin Familia
+279,0,3ª Clase,Hombres,7.0,29.125,Q,Caro,Master,Rice,Eric,1905,5,Con Familia
+280,1,3ª Clase,Mujeres,35.0,20.25,S,Caro,Mrs,Abbott,Stanton,1877,2,Con Familia
+281,0,3ª Clase,Hombres,65.0,7.75,Q,Muy Barato,Mr,Duane,Frank,1847,0,Sin Familia
+282,0,3ª Clase,Hombres,28.0,7.8542,S,Muy Barato,Mr,Olsson,Nils,1884,0,Sin Familia
+283,0,3ª Clase,Hombres,16.0,9.5,S,Barato,Mr,Pelsmaeker,Alfons,1896,0,Sin Familia
+284,1,3ª Clase,Hombres,19.0,8.05,S,Barato,Mr,Dorking,Edward,1893,0,Sin Familia
+285,0,1ª Clase,Hombres,32.0,26.0,S,Caro,Mr,Smith,Richard,1880,0,Sin Familia
+286,0,3ª Clase,Hombres,33.0,8.6625,C,Barato,Mr,Stankovic,Ivan,1879,0,Sin Familia
+287,1,3ª Clase,Hombres,30.0,9.5,S,Barato,Mr,Mulder,Theodore,1882,0,Sin Familia
+288,0,3ª Clase,Hombres,22.0,7.8958,S,Muy Barato,Mr,Naidenoff,Penko,1890,0,Sin Familia
+289,1,2ª Clase,Hombres,42.0,13.0,S,Barato,Mr,Hosono,Masabumi,1870,0,Sin Familia
+290,1,3ª Clase,Mujeres,22.0,7.75,Q,Muy Barato,Miss,Connolly,Kate,1890,0,Sin Familia
+291,1,1ª Clase,Mujeres,26.0,78.85,S,Muy Caro,Miss,Barber,Ellen,1886,0,Sin Familia
+292,1,1ª Clase,Mujeres,19.0,91.0792,C,Muy Caro,Mrs,Bishop,Dickinson,1893,1,Con Familia
+293,0,2ª Clase,Hombres,36.0,12.875,C,Barato,Mr,Levy,Rene,1876,0,Sin Familia
+294,0,3ª Clase,Mujeres,24.0,8.85,S,Barato,Miss,Haas,Aloisia,1888,0,Sin Familia
+295,0,3ª Clase,Hombres,24.0,7.8958,S,Muy Barato,Mr,Mineff,Ivan,1888,0,Sin Familia
+296,0,1ª Clase,Hombres,32.0,27.7208,C,Caro,Mr,Lewy,Ervin,1880,0,Sin Familia
+297,0,3ª Clase,Hombres,23.5,7.2292,C,Muy Barato,Mr,Hanna,Mansour,1889,0,Sin Familia
+298,0,1ª Clase,Mujeres,2.0,151.55,S,Muy Caro,Miss,Allison,Helen,1910,3,Con Familia
+299,1,1ª Clase,Hombres,32.0,30.5,S,Caro,Mr,Saalfeld,Adolphe,1880,0,Sin Familia
+300,1,1ª Clase,Mujeres,50.0,247.5208,C,Muy Caro,Mrs,Baxter,James,1862,1,Con Familia
+301,1,3ª Clase,Mujeres,22.0,7.75,Q,Muy Barato,Miss,Kelly,Anna,1890,0,Sin Familia
+302,1,3ª Clase,Hombres,32.0,23.25,Q,Caro,Mr,McCoy,Bernard,1880,2,Con Familia
+303,0,3ª Clase,Hombres,19.0,0.0,S,Muy Barato,Mr,Johnson,William,1893,0,Sin Familia
+304,1,2ª Clase,Mujeres,22.0,12.35,Q,Barato,Miss,Keane,Nora,1890,0,Sin Familia
+305,0,3ª Clase,Hombres,32.0,8.05,S,Barato,Mr,Williams,Howard,1880,0,Sin Familia
+306,1,1ª Clase,Hombres,0.92,151.55,S,Muy Caro,Master,Allison,Hudson,1912,3,Con Familia
+307,1,1ª Clase,Mujeres,22.0,110.8833,C,Muy Caro,Miss,Fleming,Margaret,1890,0,Sin Familia
+308,1,1ª Clase,Mujeres,17.0,108.9,C,Muy Caro,Mrs,Castellana,Victor,1895,1,Con Familia
+309,0,2ª Clase,Hombres,30.0,24.0,C,Caro,Mr,Abelson,Samuel,1882,1,Con Familia
+310,1,1ª Clase,Mujeres,30.0,56.9292,C,Muy Caro,Miss,Francatelli,Laura,1882,0,Sin Familia
+311,1,1ª Clase,Mujeres,24.0,83.1583,C,Muy Caro,Miss,Hays,Margaret,1888,0,Sin Familia
+312,1,1ª Clase,Mujeres,18.0,262.375,C,Muy Caro,Miss,Ryerson,Emily,1894,4,Con Familia
+313,0,2ª Clase,Mujeres,26.0,26.0,S,Caro,Mrs,Lahtinen,William,1886,2,Con Familia
+314,0,3ª Clase,Hombres,28.0,7.8958,S,Muy Barato,Mr,Hendekovic,Ignjac,1884,0,Sin Familia
+315,0,2ª Clase,Hombres,43.0,26.25,S,Caro,Mr,Hart,Benjamin,1869,2,Con Familia
+316,1,3ª Clase,Mujeres,26.0,7.8542,S,Muy Barato,Miss,Nilsson,Helmina,1886,0,Sin Familia
+317,1,2ª Clase,Mujeres,24.0,26.0,S,Caro,Mrs,Kantor,Sinai,1888,1,Con Familia
+318,0,2ª Clase,Hombres,54.0,14.0,S,Barato,Dr,Moraweck,Ernest,1858,0,Sin Familia
+319,1,1ª Clase,Mujeres,31.0,164.8667,S,Muy Caro,Miss,Wick,Mary,1881,2,Con Familia
+320,1,1ª Clase,Mujeres,40.0,134.5,C,Muy Caro,Mrs,Spedden,Frederic,1872,2,Con Familia
+321,0,3ª Clase,Hombres,22.0,7.25,S,Muy Barato,Mr,Dennis,Samuel,1890,0,Sin Familia
+322,0,3ª Clase,Hombres,27.0,7.8958,S,Muy Barato,Mr,Danoff,Yoto,1885,0,Sin Familia
+323,1,2ª Clase,Mujeres,30.0,12.35,Q,Barato,Miss,Slayter,Hilda,1882,0,Sin Familia
+324,1,2ª Clase,Mujeres,22.0,29.0,S,Caro,Mrs,Caldwell,Albert,1890,2,Con Familia
+325,0,3ª Clase,Hombres,32.0,69.55,S,Muy Caro,Mr,Sage,George,1880,10,Con Familia
+326,1,1ª Clase,Mujeres,36.0,135.6333,C,Muy Caro,Miss,Young,Marie,1876,0,Sin Familia
+327,0,3ª Clase,Hombres,61.0,6.2375,S,Muy Barato,Mr,Nysveen,Johan,1851,0,Sin Familia
+328,1,2ª Clase,Mujeres,36.0,13.0,S,Barato,Mrs,Ball,,1876,0,Sin Familia
+329,1,3ª Clase,Mujeres,31.0,20.525,S,Caro,Mrs,Goldsmith,Frank,1881,2,Con Familia
+330,1,1ª Clase,Mujeres,16.0,57.9792,C,Muy Caro,Miss,Hippach,Jean,1896,1,Con Familia
+331,1,3ª Clase,Mujeres,22.0,23.25,Q,Caro,Miss,McCoy,Agnes,1890,2,Con Familia
+332,0,1ª Clase,Hombres,45.5,28.5,S,Caro,Mr,Partner,Austen,1867,0,Sin Familia
+333,0,1ª Clase,Hombres,38.0,153.4625,S,Muy Caro,Mr,Graham,George,1874,1,Con Familia
+334,0,3ª Clase,Hombres,16.0,18.0,S,Caro,Mr,Planke,Leo,1896,2,Con Familia
+335,1,1ª Clase,Mujeres,36.0,133.65,S,Muy Caro,Mrs,Frauenthal,Henry,1876,1,Con Familia
+336,0,3ª Clase,Hombres,32.0,7.8958,S,Muy Barato,Mr,Denkoff,Mitto,1880,0,Sin Familia
+337,0,1ª Clase,Hombres,29.0,66.6,S,Muy Caro,Mr,Pears,Thomas,1883,1,Con Familia
+338,1,1ª Clase,Mujeres,41.0,134.5,C,Muy Caro,Miss,Burns,Elizabeth,1871,0,Sin Familia
+339,1,3ª Clase,Hombres,45.0,8.05,S,Barato,Mr,Dahl,Karl,1867,0,Sin Familia
+340,0,1ª Clase,Hombres,45.0,35.5,S,Muy Caro,Mr,Blackwell,Stephen,1867,0,Sin Familia
+341,1,2ª Clase,Hombres,2.0,26.0,S,Caro,Master,Navratil,Edmond,1910,2,Con Familia
+342,1,1ª Clase,Mujeres,24.0,263.0,S,Muy Caro,Miss,Fortune,Alice,1888,5,Con Familia
+343,0,2ª Clase,Hombres,28.0,13.0,S,Barato,Mr,Collander,Erik,1884,0,Sin Familia
+344,0,2ª Clase,Hombres,25.0,13.0,S,Barato,Mr,Sedgwick,Charles,1887,0,Sin Familia
+345,0,2ª Clase,Hombres,36.0,13.0,S,Barato,Mr,Fox,Stanley,1876,0,Sin Familia
+346,1,2ª Clase,Mujeres,24.0,13.0,S,Barato,Miss,Brown,Amelia,1888,0,Sin Familia
+347,1,2ª Clase,Mujeres,40.0,13.0,S,Barato,Miss,Smith,Marion,1872,0,Sin Familia
+348,1,3ª Clase,Mujeres,36.0,16.1,S,Caro,Mrs,Davison,Thomas,1876,1,Con Familia
+349,1,3ª Clase,Hombres,3.0,15.9,S,Caro,Master,Coutts,William,1909,2,Con Familia
+350,0,3ª Clase,Hombres,42.0,8.6625,S,Barato,Mr,Dimic,Jovan,1870,0,Sin Familia
+351,0,3ª Clase,Hombres,23.0,9.225,S,Barato,Mr,Odahl,Nils,1889,0,Sin Familia
+352,0,1ª Clase,Hombres,32.0,35.0,S,Muy Caro,Mr,Lambert,Fletcher,1880,0,Sin Familia
+353,0,3ª Clase,Hombres,15.0,7.2292,C,Muy Barato,Mr,Elias,Tannous,1897,2,Con Familia
+354,0,3ª Clase,Hombres,25.0,17.8,S,Caro,Mr,Franchi,Josef,1887,1,Con Familia
+355,0,3ª Clase,Hombres,32.0,7.225,C,Muy Barato,Mr,Yousif,Wazli,1880,0,Sin Familia
+356,0,3ª Clase,Hombres,28.0,9.5,S,Barato,Mr,Steen,Leo,1884,0,Sin Familia
+357,1,1ª Clase,Mujeres,22.0,55.0,S,Muy Caro,Miss,Bowerman,Elsie,1890,1,Con Familia
+358,0,2ª Clase,Mujeres,38.0,13.0,S,Barato,Miss,Funk,Annie,1874,0,Sin Familia
+359,1,3ª Clase,Mujeres,22.0,7.8792,Q,Muy Barato,Miss,McGovern,Mary,1890,0,Sin Familia
+360,1,3ª Clase,Mujeres,22.0,7.8792,Q,Muy Barato,Miss,Mockler,Helen,1890,0,Sin Familia
+361,0,3ª Clase,Hombres,40.0,27.9,S,Caro,Mr,Skoog,Wilhelm,1872,5,Con Familia
+362,0,2ª Clase,Hombres,29.0,27.7208,C,Caro,Mr,Carlo,Sebastiano,1883,1,Con Familia
+363,0,3ª Clase,Mujeres,45.0,14.4542,C,Barato,Mrs,Barbara,,1867,1,Con Familia
+364,0,3ª Clase,Hombres,35.0,7.05,S,Muy Barato,Mr,Asim,Adola,1877,0,Sin Familia
+365,0,3ª Clase,Hombres,32.0,15.5,Q,Caro,Mr,Brien,Thomas,1880,1,Con Familia
+366,0,3ª Clase,Hombres,30.0,7.25,S,Muy Barato,Mr,Adahl,Mauritz,1882,0,Sin Familia
+367,1,1ª Clase,Mujeres,60.0,75.25,C,Muy Caro,Mrs,Warren,Frank,1852,1,Con Familia
+368,1,3ª Clase,Mujeres,36.0,7.2292,C,Muy Barato,Mrs,Moussa,,1876,0,Sin Familia
+369,1,3ª Clase,Mujeres,22.0,7.75,Q,Muy Barato,Miss,Jermyn,Annie,1890,0,Sin Familia
+370,1,1ª Clase,Mujeres,24.0,69.3,C,Muy Caro,Mme,Aubart,Leontine,1888,0,Sin Familia
+371,1,1ª Clase,Hombres,25.0,55.4417,C,Muy Caro,Mr,Harder,George,1887,1,Con Familia
+372,0,3ª Clase,Hombres,18.0,6.4958,S,Muy Barato,Mr,Wiklund,Jakob,1894,1,Con Familia
+373,0,3ª Clase,Hombres,19.0,8.05,S,Barato,Mr,Beavan,William,1893,0,Sin Familia
+374,0,1ª Clase,Hombres,22.0,135.6333,C,Muy Caro,Mr,Ringhini,Sante,1890,0,Sin Familia
+375,0,3ª Clase,Mujeres,3.0,21.075,S,Caro,Miss,Palsson,Stina,1909,4,Con Familia
+376,1,1ª Clase,Mujeres,36.0,82.1708,C,Muy Caro,Mrs,Meyer,Edgar,1876,1,Con Familia
+377,1,3ª Clase,Mujeres,22.0,7.25,S,Muy Barato,Miss,Landergren,Aurora,1890,0,Sin Familia
+378,0,1ª Clase,Hombres,27.0,211.5,C,Muy Caro,Mr,Widener,Harry,1885,2,Con Familia
+379,0,3ª Clase,Hombres,20.0,4.0125,C,Muy Barato,Mr,Betros,Tannous,1892,0,Sin Familia
+380,0,3ª Clase,Hombres,19.0,7.775,S,Muy Barato,Mr,Gustafsson,Karl,1893,0,Sin Familia
+381,1,1ª Clase,Mujeres,42.0,227.525,C,Muy Caro,Miss,Bidois,Rosalie,1870,0,Sin Familia
+382,1,3ª Clase,Mujeres,1.0,15.7417,C,Caro,Miss,Nakid,Maria,1911,2,Con Familia
+383,0,3ª Clase,Hombres,32.0,7.925,S,Barato,Mr,Tikkanen,Juho,1880,0,Sin Familia
+384,1,1ª Clase,Mujeres,35.0,52.0,S,Muy Caro,Mrs,Holverson,Alexander,1877,1,Con Familia
+385,0,3ª Clase,Hombres,32.0,7.8958,S,Muy Barato,Mr,Plotcharsky,Vasil,1880,0,Sin Familia
+386,0,2ª Clase,Hombres,18.0,73.5,S,Muy Caro,Mr,Davies,Charles,1894,0,Sin Familia
+387,0,3ª Clase,Hombres,1.0,46.9,S,Muy Caro,Master,Goodwin,Sidney,1911,7,Con Familia
+388,1,2ª Clase,Mujeres,36.0,13.0,S,Barato,Miss,Buss,Kate,1876,0,Sin Familia
+389,0,3ª Clase,Hombres,32.0,7.7292,Q,Muy Barato,Mr,Sadlier,Matthew,1880,0,Sin Familia
+390,1,2ª Clase,Mujeres,17.0,12.0,C,Barato,Miss,Lehmann,Bertha,1895,0,Sin Familia
+391,1,1ª Clase,Hombres,36.0,120.0,S,Muy Caro,Mr,Carter,William,1876,3,Con Familia
+392,1,3ª Clase,Hombres,21.0,7.7958,S,Muy Barato,Mr,Jansson,Carl,1891,0,Sin Familia
+393,0,3ª Clase,Hombres,28.0,7.925,S,Barato,Mr,Gustafsson,Johan,1884,2,Con Familia
+394,1,1ª Clase,Mujeres,23.0,113.275,C,Muy Caro,Miss,Newell,Marjorie,1889,1,Con Familia
+395,1,3ª Clase,Mujeres,24.0,16.7,S,Caro,Mrs,Sandstrom,Hjalmar,1888,2,Con Familia
+396,0,3ª Clase,Hombres,22.0,7.7958,S,Muy Barato,Mr,Johansson,Erik,1890,0,Sin Familia
+397,0,3ª Clase,Mujeres,31.0,7.8542,S,Muy Barato,Miss,Olsson,Elina,1881,0,Sin Familia
+398,0,2ª Clase,Hombres,46.0,26.0,S,Caro,Mr,McKane,Peter,1866,0,Sin Familia
+399,0,2ª Clase,Hombres,23.0,10.5,S,Barato,Dr,Pain,Alfred,1889,0,Sin Familia
+400,1,2ª Clase,Mujeres,28.0,12.65,S,Barato,Mrs,Trout,William,1884,0,Sin Familia
+401,1,3ª Clase,Hombres,39.0,7.925,S,Barato,Mr,Niskanen,Juha,1873,0,Sin Familia
+402,0,3ª Clase,Hombres,26.0,8.05,S,Barato,Mr,Adams,John,1886,0,Sin Familia
+403,0,3ª Clase,Mujeres,21.0,9.825,S,Barato,Miss,Jussila,Mari,1891,1,Con Familia
+404,0,3ª Clase,Hombres,28.0,15.85,S,Caro,Mr,Hakkarainen,Pekka,1884,1,Con Familia
+405,0,3ª Clase,Mujeres,20.0,8.6625,S,Barato,Miss,Oreskovic,Marija,1892,0,Sin Familia
+406,0,2ª Clase,Hombres,34.0,21.0,S,Caro,Mr,Gale,Shadrach,1878,1,Con Familia
+407,0,3ª Clase,Hombres,51.0,7.75,S,Muy Barato,Mr,Widegren,Carl,1861,0,Sin Familia
+408,1,2ª Clase,Hombres,3.0,18.75,S,Caro,Master,Richards,William,1909,2,Con Familia
+409,0,3ª Clase,Hombres,21.0,7.775,S,Muy Barato,Mr,Birkeland,Hans,1891,0,Sin Familia
+410,0,3ª Clase,Mujeres,22.0,25.4667,S,Caro,Miss,Lefebre,Ida,1890,4,Con Familia
+411,0,3ª Clase,Hombres,32.0,7.8958,S,Muy Barato,Mr,Sdycoff,Todor,1880,0,Sin Familia
+412,0,3ª Clase,Hombres,32.0,6.8583,Q,Muy Barato,Mr,Hart,Henry,1880,0,Sin Familia
+413,1,1ª Clase,Mujeres,33.0,90.0,Q,Muy Caro,Miss,Minahan,Daisy,1879,1,Con Familia
+414,0,2ª Clase,Hombres,32.0,0.0,S,Muy Barato,Mr,Cunningham,Alfred,1880,0,Sin Familia
+415,1,3ª Clase,Hombres,44.0,7.925,S,Barato,Mr,Sundman,Johan,1868,0,Sin Familia
+416,0,3ª Clase,Mujeres,36.0,8.05,S,Barato,Mrs,Meek,Thomas,1876,0,Sin Familia
+417,1,2ª Clase,Mujeres,34.0,32.5,S,Muy Caro,Mrs,Drew,James,1878,2,Con Familia
+418,1,2ª Clase,Mujeres,18.0,13.0,S,Barato,Miss,Silven,Lyyli,1894,2,Con Familia
+419,0,2ª Clase,Hombres,30.0,13.0,S,Barato,Mr,Matthews,William,1882,0,Sin Familia
+420,0,3ª Clase,Mujeres,10.0,24.15,S,Caro,Miss,Impe,Catharina,1902,2,Con Familia
+421,0,3ª Clase,Hombres,32.0,7.8958,C,Muy Barato,Mr,Gheorgheff,Stanio,1880,0,Sin Familia
+422,0,3ª Clase,Hombres,21.0,7.7333,Q,Muy Barato,Mr,Charters,David,1891,0,Sin Familia
+423,0,3ª Clase,Hombres,29.0,7.875,S,Muy Barato,Mr,Zimmerman,Leo,1883,0,Sin Familia
+424,0,3ª Clase,Mujeres,28.0,14.4,S,Barato,Mrs,Danbom,Ernst,1884,2,Con Familia
+425,0,3ª Clase,Hombres,18.0,20.2125,S,Caro,Mr,Rosblom,Viktor,1894,2,Con Familia
+426,0,3ª Clase,Hombres,32.0,7.25,S,Muy Barato,Mr,Wiseman,Phillippe,1880,0,Sin Familia
+427,1,2ª Clase,Mujeres,28.0,26.0,S,Caro,Mrs,Clarke,Charles,1884,1,Con Familia
+428,1,2ª Clase,Mujeres,19.0,26.0,S,Caro,Miss,Phillips,Kate,1893,0,Sin Familia
+429,0,3ª Clase,Hombres,32.0,7.75,Q,Muy Barato,Mr,Flynn,James,1880,0,Sin Familia
+430,1,3ª Clase,Hombres,32.0,8.05,S,Barato,Mr,Pickard,Berk,1880,0,Sin Familia
+431,1,1ª Clase,Hombres,28.0,26.55,S,Caro,Mr,Steffansson,Mauritz,1884,0,Sin Familia
+432,1,3ª Clase,Mujeres,36.0,16.1,S,Caro,Mrs,Thorneycroft,Percival,1876,1,Con Familia
+433,1,2ª Clase,Mujeres,42.0,26.0,S,Caro,Mrs,Louch,Charles,1870,1,Con Familia
+434,0,3ª Clase,Hombres,17.0,7.125,S,Muy Barato,Mr,Kallio,Nikolai,1895,0,Sin Familia
+435,0,1ª Clase,Hombres,50.0,55.9,S,Muy Caro,Mr,Silvey,William,1862,1,Con Familia
+436,1,1ª Clase,Mujeres,14.0,120.0,S,Muy Caro,Miss,Carter,Lucile,1898,3,Con Familia
+437,0,3ª Clase,Mujeres,21.0,34.375,S,Muy Caro,Miss,Ford,Doolina,1891,4,Con Familia
+438,1,2ª Clase,Mujeres,24.0,18.75,S,Caro,Mrs,Richards,Sidney,1888,5,Con Familia
+439,0,1ª Clase,Hombres,64.0,263.0,S,Muy Caro,Mr,Fortune,Mark,1848,5,Con Familia
+440,0,2ª Clase,Hombres,31.0,10.5,S,Barato,Mr,Kvillner,Johan,1881,0,Sin Familia
+441,1,2ª Clase,Mujeres,45.0,26.25,S,Caro,Mrs,Hart,Benjamin,1867,2,Con Familia
+442,0,3ª Clase,Hombres,20.0,9.5,S,Barato,Mr,Hampe,Leon,1892,0,Sin Familia
+443,0,3ª Clase,Hombres,25.0,7.775,S,Muy Barato,Mr,Petterson,Johan,1887,1,Con Familia
+444,1,2ª Clase,Mujeres,28.0,13.0,S,Barato,Ms,Reynaldo,Encarnacion,1884,0,Sin Familia
+445,1,3ª Clase,Hombres,32.0,8.1125,S,Barato,Mr,Bratthammer,Bernt,1880,0,Sin Familia
+446,1,1ª Clase,Hombres,4.0,81.8583,S,Muy Caro,Master,Dodge,Washington,1908,2,Con Familia
+447,1,2ª Clase,Mujeres,13.0,19.5,S,Caro,Miss,Mellinger,Madeleine,1899,1,Con Familia
+448,1,1ª Clase,Hombres,34.0,26.55,S,Caro,Mr,Seward,Frederic,1878,0,Sin Familia
+449,1,3ª Clase,Mujeres,5.0,19.2583,C,Caro,Miss,Baclini,Marie,1907,3,Con Familia
+450,1,1ª Clase,Hombres,52.0,30.5,S,Caro,Major,Peuchen,Arthur,1860,0,Sin Familia
+451,0,2ª Clase,Hombres,36.0,27.75,S,Caro,Mr,West,Edwy,1876,3,Con Familia
+452,0,3ª Clase,Hombres,32.0,19.9667,S,Caro,Mr,Hagland,Ingvald,1880,1,Con Familia
+453,0,1ª Clase,Hombres,30.0,27.75,C,Caro,Mr,Foreman,Benjamin,1882,0,Sin Familia
+454,1,1ª Clase,Hombres,49.0,89.1042,C,Muy Caro,Mr,Goldenberg,Samuel,1863,1,Con Familia
+455,0,3ª Clase,Hombres,32.0,8.05,S,Barato,Mr,Peduzzi,Joseph,1880,0,Sin Familia
+456,1,3ª Clase,Hombres,29.0,7.8958,C,Muy Barato,Mr,Jalsevac,Ivan,1883,0,Sin Familia
+457,0,1ª Clase,Hombres,65.0,26.55,S,Caro,Mr,Millet,Francis,1847,0,Sin Familia
+458,1,1ª Clase,Mujeres,36.0,51.8625,S,Muy Caro,Mrs,Kenyon,Frederick,1876,1,Con Familia
+459,1,2ª Clase,Mujeres,50.0,10.5,S,Barato,Miss,Toomey,Ellen,1862,0,Sin Familia
+460,0,3ª Clase,Hombres,32.0,7.75,Q,Muy Barato,Mr,Connor,Maurice,1880,0,Sin Familia
+461,1,1ª Clase,Hombres,48.0,26.55,S,Caro,Mr,Anderson,Harry,1864,0,Sin Familia
+462,0,3ª Clase,Hombres,34.0,8.05,S,Barato,Mr,Morley,William,1878,0,Sin Familia
+463,0,1ª Clase,Hombres,47.0,38.5,S,Muy Caro,Mr,Gee,Arthur,1865,0,Sin Familia
+464,0,2ª Clase,Hombres,48.0,13.0,S,Barato,Mr,Milling,Jacob,1864,0,Sin Familia
+465,0,3ª Clase,Hombres,32.0,8.05,S,Barato,Mr,Maisner,Simon,1880,0,Sin Familia
+466,0,3ª Clase,Hombres,38.0,7.05,S,Muy Barato,Mr,Goncalves,Manuel,1874,0,Sin Familia
+467,0,2ª Clase,Hombres,32.0,0.0,S,Muy Barato,Mr,Campbell,William,1880,0,Sin Familia
+468,0,1ª Clase,Hombres,56.0,26.55,S,Caro,Mr,Smart,John,1856,0,Sin Familia
+469,0,3ª Clase,Hombres,32.0,7.725,Q,Muy Barato,Mr,Scanlan,James,1880,0,Sin Familia
+470,1,3ª Clase,Mujeres,0.75,19.2583,C,Caro,Miss,Baclini,Helene,1912,3,Con Familia
+471,0,3ª Clase,Hombres,32.0,7.25,S,Muy Barato,Mr,Keefe,Arthur,1880,0,Sin Familia
+472,0,3ª Clase,Hombres,38.0,8.6625,S,Barato,Mr,Cacic,Luka,1874,0,Sin Familia
+473,1,2ª Clase,Mujeres,33.0,27.75,S,Caro,Mrs,West,Edwy,1879,3,Con Familia
+474,1,2ª Clase,Mujeres,23.0,13.7917,C,Barato,Mrs,Jerwan,Amin,1889,0,Sin Familia
+475,0,3ª Clase,Mujeres,22.0,9.8375,S,Barato,Miss,Strandberg,Ida,1890,0,Sin Familia
+476,0,1ª Clase,Hombres,32.0,52.0,S,Muy Caro,Mr,Clifford,George,1880,0,Sin Familia
+477,0,2ª Clase,Hombres,34.0,21.0,S,Caro,Mr,Renouf,Peter,1878,1,Con Familia
+478,0,3ª Clase,Hombres,29.0,7.0458,S,Muy Barato,Mr,Braund,Lewis,1883,1,Con Familia
+479,0,3ª Clase,Hombres,22.0,7.5208,S,Muy Barato,Mr,Karlsson,Nils,1890,0,Sin Familia
+480,1,3ª Clase,Mujeres,2.0,12.2875,S,Barato,Miss,Hirvonen,Hildur,1910,1,Con Familia
+481,0,3ª Clase,Hombres,9.0,46.9,S,Muy Caro,Master,Goodwin,Harold,1903,7,Con Familia
+482,0,2ª Clase,Hombres,32.0,0.0,S,Muy Barato,Mr,Frost,Anthony,1880,0,Sin Familia
+483,0,3ª Clase,Hombres,50.0,8.05,S,Barato,Mr,Rouse,Richard,1862,0,Sin Familia
+484,1,3ª Clase,Mujeres,63.0,9.5875,S,Barato,Mrs,Turkula,,1849,0,Sin Familia
+485,1,1ª Clase,Hombres,25.0,91.0792,C,Muy Caro,Mr,Bishop,Dickinson,1887,1,Con Familia
+486,0,3ª Clase,Mujeres,22.0,25.4667,S,Caro,Miss,Lefebre,Jeannie,1890,4,Con Familia
+487,1,1ª Clase,Mujeres,35.0,90.0,S,Muy Caro,Mrs,Hoyt,Frederick,1877,1,Con Familia
+488,0,1ª Clase,Hombres,58.0,29.7,C,Caro,Mr,Kent,Edward,1854,0,Sin Familia
+489,0,3ª Clase,Hombres,30.0,8.05,S,Barato,Mr,Somerton,Francis,1882,0,Sin Familia
+490,1,3ª Clase,Hombres,9.0,15.9,S,Caro,Master,Coutts,Eden,1903,2,Con Familia
+491,0,3ª Clase,Hombres,32.0,19.9667,S,Caro,Mr,Hagland,Konrad,1880,1,Con Familia
+492,0,3ª Clase,Hombres,21.0,7.25,S,Muy Barato,Mr,Windelov,Einar,1891,0,Sin Familia
+493,0,1ª Clase,Hombres,55.0,30.5,S,Caro,Mr,Molson,Harry,1857,0,Sin Familia
+494,0,1ª Clase,Hombres,71.0,49.5042,C,Muy Caro,Mr,Artagaveytia,Ramon,1841,0,Sin Familia
+495,0,3ª Clase,Hombres,21.0,8.05,S,Barato,Mr,Stanley,Edward,1891,0,Sin Familia
+496,0,3ª Clase,Hombres,32.0,14.4583,C,Caro,Mr,Yousseff,Gerious,1880,0,Sin Familia
+497,1,1ª Clase,Mujeres,54.0,78.2667,C,Muy Caro,Miss,Eustis,Elizabeth,1858,1,Con Familia
+498,0,3ª Clase,Hombres,32.0,15.1,S,Caro,Mr,Shellard,Frederick,1880,0,Sin Familia
+499,0,1ª Clase,Mujeres,25.0,151.55,S,Muy Caro,Mrs,Allison,Hudson,1887,3,Con Familia
+500,0,3ª Clase,Hombres,24.0,7.7958,S,Muy Barato,Mr,Svensson,Olof,1888,0,Sin Familia
+501,0,3ª Clase,Hombres,17.0,8.6625,S,Barato,Mr,Calic,Petar,1895,0,Sin Familia
+502,0,3ª Clase,Mujeres,21.0,7.75,Q,Muy Barato,Miss,Canavan,Mary,1891,0,Sin Familia
+503,0,3ª Clase,Mujeres,22.0,7.6292,Q,Muy Barato,Miss,Sullivan,Bridget,1890,0,Sin Familia
+504,0,3ª Clase,Mujeres,37.0,9.5875,S,Barato,Miss,Laitinen,Kristina,1875,0,Sin Familia
+505,1,1ª Clase,Mujeres,16.0,86.5,S,Muy Caro,Miss,Maioni,Roberta,1896,0,Sin Familia
+506,0,1ª Clase,Hombres,18.0,108.9,C,Muy Caro,Mr,Castellana,Victor,1894,1,Con Familia
+507,1,2ª Clase,Mujeres,33.0,26.0,S,Caro,Mrs,Quick,Frederick,1879,2,Con Familia
+508,1,1ª Clase,Hombres,32.0,26.55,S,Caro,Mr,Bradley,George,1880,0,Sin Familia
+509,0,3ª Clase,Hombres,28.0,22.525,S,Caro,Mr,Olsen,Henry,1884,0,Sin Familia
+510,1,3ª Clase,Hombres,26.0,56.4958,S,Muy Caro,Mr,Lang,Fang,1886,0,Sin Familia
+511,1,3ª Clase,Hombres,29.0,7.75,Q,Muy Barato,Mr,Daly,Eugene,1883,0,Sin Familia
+512,0,3ª Clase,Hombres,32.0,8.05,S,Barato,Mr,Webber,James,1880,0,Sin Familia
+513,1,1ª Clase,Hombres,36.0,26.2875,S,Caro,Mr,McGough,James,1876,0,Sin Familia
+514,1,1ª Clase,Mujeres,54.0,59.4,C,Muy Caro,Mrs,Rothschild,Martin,1858,1,Con Familia
+515,0,3ª Clase,Hombres,24.0,7.4958,S,Muy Barato,Mr,Coleff,Satio,1888,0,Sin Familia
+516,0,1ª Clase,Hombres,47.0,34.0208,S,Muy Caro,Mr,Walker,William,1865,0,Sin Familia
+517,1,2ª Clase,Mujeres,34.0,10.5,S,Barato,Mrs,Lemore,,1878,0,Sin Familia
+518,0,3ª Clase,Hombres,32.0,24.15,Q,Caro,Mr,Ryan,Patrick,1880,0,Sin Familia
+519,1,2ª Clase,Mujeres,36.0,26.0,S,Caro,Mrs,Angle,William,1876,1,Con Familia
+520,0,3ª Clase,Hombres,32.0,7.8958,S,Muy Barato,Mr,Pavlovic,Stefo,1880,0,Sin Familia
+521,1,1ª Clase,Mujeres,30.0,93.5,S,Muy Caro,Miss,Perreault,Anne,1882,0,Sin Familia
+522,0,3ª Clase,Hombres,22.0,7.8958,S,Muy Barato,Mr,Vovk,Janko,1890,0,Sin Familia
+523,0,3ª Clase,Hombres,32.0,7.225,C,Muy Barato,Mr,Lahoud,Sarkis,1880,0,Sin Familia
+524,1,1ª Clase,Mujeres,44.0,57.9792,C,Muy Caro,Mrs,Hippach,Louis,1868,1,Con Familia
+525,0,3ª Clase,Hombres,32.0,7.2292,C,Muy Barato,Mr,Kassem,Fared,1880,0,Sin Familia
+526,0,3ª Clase,Hombres,40.5,7.75,Q,Muy Barato,Mr,Farrell,James,1872,0,Sin Familia
+527,1,2ª Clase,Mujeres,50.0,10.5,S,Barato,Miss,Ridsdale,Lucy,1862,0,Sin Familia
+528,0,1ª Clase,Hombres,32.0,221.7792,S,Muy Caro,Mr,Farthing,John,1880,0,Sin Familia
+529,0,3ª Clase,Hombres,39.0,7.925,S,Barato,Mr,Salonen,Johan,1873,0,Sin Familia
+530,0,2ª Clase,Hombres,23.0,11.5,S,Barato,Mr,Hocking,Richard,1889,3,Con Familia
+531,1,2ª Clase,Mujeres,2.0,26.0,S,Caro,Miss,Quick,Phyllis,1910,2,Con Familia
+532,0,3ª Clase,Hombres,32.0,7.2292,C,Muy Barato,Mr,Toufik,Nakli,1880,0,Sin Familia
+533,0,3ª Clase,Hombres,17.0,7.2292,C,Muy Barato,Mr,Elias,Joseph,1895,2,Con Familia
+534,1,3ª Clase,Mujeres,36.0,22.3583,C,Caro,Mrs,Peter,Catherine,1876,2,Con Familia
+535,0,3ª Clase,Mujeres,30.0,8.6625,S,Barato,Miss,Cacic,Marija,1882,0,Sin Familia
+536,1,2ª Clase,Mujeres,7.0,26.25,S,Caro,Miss,Hart,Eva,1905,2,Con Familia
+537,0,1ª Clase,Hombres,45.0,26.55,S,Caro,Major,Butt,Archibald,1867,0,Sin Familia
+538,1,1ª Clase,Mujeres,30.0,106.425,C,Muy Caro,Miss,LeRoy,Bertha,1882,0,Sin Familia
+539,0,3ª Clase,Hombres,32.0,14.5,S,Caro,Mr,Risien,Samuel,1880,0,Sin Familia
+540,1,1ª Clase,Mujeres,22.0,49.5,C,Muy Caro,Miss,Frolicher,Hedwig,1890,2,Con Familia
+541,1,1ª Clase,Mujeres,36.0,71.0,S,Muy Caro,Miss,Crosby,Harriet,1876,2,Con Familia
+542,0,3ª Clase,Mujeres,9.0,31.275,S,Muy Caro,Miss,Andersson,Ingeborg,1903,6,Con Familia
+543,0,3ª Clase,Mujeres,11.0,31.275,S,Muy Caro,Miss,Andersson,Sigrid,1901,6,Con Familia
+544,1,2ª Clase,Hombres,32.0,26.0,S,Caro,Mr,Beane,Edward,1880,1,Con Familia
+545,0,1ª Clase,Hombres,50.0,106.425,C,Muy Caro,Mr,Douglas,Walter,1862,1,Con Familia
+546,0,1ª Clase,Hombres,64.0,26.0,S,Caro,Mr,Nicholson,Arthur,1848,0,Sin Familia
+547,1,2ª Clase,Mujeres,19.0,26.0,S,Caro,Mrs,Beane,Edward,1893,1,Con Familia
+548,1,2ª Clase,Hombres,32.0,13.8625,C,Barato,Mr,Manent,Julian,1880,0,Sin Familia
+549,0,3ª Clase,Hombres,33.0,20.525,S,Caro,Mr,Goldsmith,Frank,1879,2,Con Familia
+550,1,2ª Clase,Hombres,8.0,36.75,S,Muy Caro,Master,Davies,John,1904,2,Con Familia
+551,1,1ª Clase,Hombres,17.0,110.8833,C,Muy Caro,Mr,Thayer,John,1895,2,Con Familia
+552,0,2ª Clase,Hombres,27.0,26.0,S,Caro,Mr,Sharp,Percival,1885,0,Sin Familia
+553,0,3ª Clase,Hombres,32.0,7.8292,Q,Muy Barato,Mr,Brien,Timothy,1880,0,Sin Familia
+554,1,3ª Clase,Hombres,22.0,7.225,C,Muy Barato,Mr,Leeni,Fahim,1890,0,Sin Familia
+555,1,3ª Clase,Mujeres,22.0,7.775,S,Muy Barato,Miss,Ohman,Velin,1890,0,Sin Familia
+556,0,1ª Clase,Hombres,62.0,26.55,S,Caro,Mr,Wright,George,1850,0,Sin Familia
+557,1,1ª Clase,Mujeres,48.0,39.6,C,Muy Caro,Lady,Gordon,,1864,1,Con Familia
+558,0,1ª Clase,Hombres,32.0,227.525,C,Muy Caro,Mr,Robbins,Victor,1880,0,Sin Familia
+559,1,1ª Clase,Mujeres,39.0,79.65,S,Muy Caro,Mrs,Taussig,Emil,1873,2,Con Familia
+560,1,3ª Clase,Mujeres,36.0,17.4,S,Caro,Mrs,Messemaeker,Guillaume,1876,1,Con Familia
+561,0,3ª Clase,Hombres,32.0,7.75,Q,Muy Barato,Mr,Morrow,Thomas,1880,0,Sin Familia
+562,0,3ª Clase,Hombres,40.0,7.8958,S,Muy Barato,Mr,Sivic,Husein,1872,0,Sin Familia
+563,0,2ª Clase,Hombres,28.0,13.5,S,Barato,Mr,Norman,Robert,1884,0,Sin Familia
+564,0,3ª Clase,Hombres,32.0,8.05,S,Barato,Mr,Simmons,John,1880,0,Sin Familia
+565,0,3ª Clase,Mujeres,22.0,8.05,S,Barato,Miss,Meanwell,,1890,0,Sin Familia
+566,0,3ª Clase,Hombres,24.0,24.15,S,Caro,Mr,Davies,Alfred,1888,2,Con Familia
+567,0,3ª Clase,Hombres,19.0,7.8958,S,Muy Barato,Mr,Stoytcheff,Ilia,1893,0,Sin Familia
+568,0,3ª Clase,Mujeres,29.0,21.075,S,Caro,Mrs,Palsson,Nils,1883,4,Con Familia
+569,0,3ª Clase,Hombres,32.0,7.2292,C,Muy Barato,Mr,Doharr,Tannous,1880,0,Sin Familia
+570,1,3ª Clase,Hombres,32.0,7.8542,S,Muy Barato,Mr,Jonsson,Carl,1880,0,Sin Familia
+571,1,2ª Clase,Hombres,62.0,10.5,S,Barato,Mr,Harris,George,1850,0,Sin Familia
+572,1,1ª Clase,Mujeres,53.0,51.4792,S,Muy Caro,Mrs,Appleton,Edward,1859,2,Con Familia
+573,1,1ª Clase,Hombres,36.0,26.3875,S,Caro,Mr,Flynn,John,1876,0,Sin Familia
+574,1,3ª Clase,Mujeres,22.0,7.75,Q,Muy Barato,Miss,Kelly,Mary,1890,0,Sin Familia
+575,0,3ª Clase,Hombres,16.0,8.05,S,Barato,Mr,Rush,Alfred,1896,0,Sin Familia
+576,0,3ª Clase,Hombres,19.0,14.5,S,Caro,Mr,Patchett,George,1893,0,Sin Familia
+577,1,2ª Clase,Mujeres,34.0,13.0,S,Barato,Miss,Garside,Ethel,1878,0,Sin Familia
+578,1,1ª Clase,Mujeres,39.0,55.9,S,Muy Caro,Mrs,Silvey,William,1873,1,Con Familia
+579,0,3ª Clase,Mujeres,36.0,14.4583,C,Caro,Mrs,Caram,Joseph,1876,1,Con Familia
+580,1,3ª Clase,Hombres,32.0,7.925,S,Barato,Mr,Jussila,Eiriik,1880,0,Sin Familia
+581,1,2ª Clase,Mujeres,25.0,30.0,S,Caro,Miss,Christy,Julie,1887,2,Con Familia
+582,1,1ª Clase,Mujeres,39.0,110.8833,C,Muy Caro,Mrs,Thayer,John,1873,2,Con Familia
+583,0,2ª Clase,Hombres,54.0,26.0,S,Caro,Mr,Downton,William,1858,0,Sin Familia
+584,0,1ª Clase,Hombres,36.0,40.125,C,Muy Caro,Mr,Ross,John,1876,0,Sin Familia
+585,0,3ª Clase,Hombres,32.0,8.7125,C,Barato,Mr,Paulner,Uscher,1880,0,Sin Familia
+586,1,1ª Clase,Mujeres,18.0,79.65,S,Muy Caro,Miss,Taussig,Ruth,1894,2,Con Familia
+587,0,2ª Clase,Hombres,47.0,15.0,S,Caro,Mr,Jarvis,John,1865,0,Sin Familia
+588,1,1ª Clase,Hombres,60.0,79.2,C,Muy Caro,Mr,Stehli,Maxmillian,1852,2,Con Familia
+589,0,3ª Clase,Hombres,22.0,8.05,S,Barato,Mr,Gilinski,Eliezer,1890,0,Sin Familia
+590,0,3ª Clase,Hombres,32.0,8.05,S,Barato,Mr,Murdlin,Joseph,1880,0,Sin Familia
+591,0,3ª Clase,Hombres,35.0,7.125,S,Muy Barato,Mr,Rintamaki,Matti,1877,0,Sin Familia
+592,1,1ª Clase,Mujeres,52.0,78.2667,C,Muy Caro,Mrs,Stephenson,Walter,1860,1,Con Familia
+593,0,3ª Clase,Hombres,47.0,7.25,S,Muy Barato,Mr,Elsbury,William,1865,0,Sin Familia
+594,0,3ª Clase,Mujeres,22.0,7.75,Q,Muy Barato,Miss,Bourke,Mary,1890,2,Con Familia
+595,0,2ª Clase,Hombres,37.0,26.0,S,Caro,Mr,Chapman,John,1875,1,Con Familia
+596,0,3ª Clase,Hombres,36.0,24.15,S,Caro,Mr,Impe,Jean,1876,2,Con Familia
+597,1,2ª Clase,Mujeres,22.0,33.0,S,Muy Caro,Miss,Leitch,Jessie,1890,0,Sin Familia
+598,0,3ª Clase,Hombres,49.0,0.0,S,Muy Barato,Mr,Johnson,Alfred,1863,0,Sin Familia
+599,0,3ª Clase,Hombres,32.0,7.225,C,Muy Barato,Mr,Boulos,Hanna,1880,0,Sin Familia
+600,1,1ª Clase,Hombres,49.0,56.9292,C,Muy Caro,Sir,Gordon,Cosmo,1863,1,Con Familia
+601,1,2ª Clase,Mujeres,24.0,27.0,S,Caro,Mrs,Jacobsohn,Sidney,1888,3,Con Familia
+602,0,3ª Clase,Hombres,32.0,7.8958,S,Muy Barato,Mr,Slabenoff,Petco,1880,0,Sin Familia
+603,0,1ª Clase,Hombres,32.0,42.4,S,Muy Caro,Mr,Harrington,Charles,1880,0,Sin Familia
+604,0,3ª Clase,Hombres,44.0,8.05,S,Barato,Mr,Torber,Ernst,1868,0,Sin Familia
+605,1,1ª Clase,Hombres,35.0,26.55,C,Caro,Mr,Homer,Harry,1877,0,Sin Familia
+606,0,3ª Clase,Hombres,36.0,15.55,S,Caro,Mr,Lindell,Edvard,1876,1,Con Familia
+607,0,3ª Clase,Hombres,30.0,7.8958,S,Muy Barato,Mr,Karaic,Milan,1882,0,Sin Familia
+608,1,1ª Clase,Hombres,27.0,30.5,S,Caro,Mr,Daniel,Robert,1885,0,Sin Familia
+609,1,2ª Clase,Mujeres,22.0,41.5792,C,Muy Caro,Mrs,Laroche,Joseph,1890,3,Con Familia
+610,1,1ª Clase,Mujeres,40.0,153.4625,S,Muy Caro,Miss,Shutes,Elizabeth,1872,0,Sin Familia
+611,0,3ª Clase,Mujeres,39.0,31.275,S,Muy Caro,Mrs,Andersson,Anders,1873,6,Con Familia
+612,0,3ª Clase,Hombres,32.0,7.05,S,Muy Barato,Mr,Jardin,Jose,1880,0,Sin Familia
+613,1,3ª Clase,Mujeres,22.0,15.5,Q,Caro,Miss,Murphy,Margaret,1890,1,Con Familia
+614,0,3ª Clase,Hombres,32.0,7.75,Q,Muy Barato,Mr,Horgan,John,1880,0,Sin Familia
+615,0,3ª Clase,Hombres,35.0,8.05,S,Barato,Mr,Brocklebank,William,1877,0,Sin Familia
+616,1,2ª Clase,Mujeres,24.0,65.0,S,Muy Caro,Miss,Herman,Alice,1888,3,Con Familia
+617,0,3ª Clase,Hombres,34.0,14.4,S,Barato,Mr,Danbom,Ernst,1878,2,Con Familia
+618,0,3ª Clase,Mujeres,26.0,16.1,S,Caro,Mrs,Lobb,William,1886,1,Con Familia
+619,1,2ª Clase,Mujeres,4.0,39.0,S,Muy Caro,Miss,Becker,Marion,1908,3,Con Familia
+620,0,2ª Clase,Hombres,26.0,10.5,S,Barato,Mr,Gavey,Lawrence,1886,0,Sin Familia
+621,0,3ª Clase,Hombres,27.0,14.4542,C,Barato,Mr,Yasbeck,Antoni,1885,1,Con Familia
+622,1,1ª Clase,Hombres,42.0,52.5542,S,Muy Caro,Mr,Kimball,Edwin,1870,1,Con Familia
+623,1,3ª Clase,Hombres,20.0,15.7417,C,Caro,Mr,Nakid,Sahid,1892,2,Con Familia
+624,0,3ª Clase,Hombres,21.0,7.8542,S,Muy Barato,Mr,Hansen,Henry,1891,0,Sin Familia
+625,0,3ª Clase,Hombres,21.0,16.1,S,Caro,Mr,Bowen,David,1891,0,Sin Familia
+626,0,1ª Clase,Hombres,61.0,32.3208,S,Muy Caro,Mr,Sutton,Frederick,1851,0,Sin Familia
+627,0,2ª Clase,Hombres,57.0,12.35,Q,Barato,Rev,Kirkland,Charles,1855,0,Sin Familia
+628,1,1ª Clase,Mujeres,21.0,77.9583,S,Muy Caro,Miss,Longley,Gretchen,1891,0,Sin Familia
+629,0,3ª Clase,Hombres,26.0,7.8958,S,Muy Barato,Mr,Bostandyeff,Guentcho,1886,0,Sin Familia
+630,0,3ª Clase,Hombres,32.0,7.7333,Q,Muy Barato,Mr,Connell,Patrick,1880,0,Sin Familia
+631,1,1ª Clase,Hombres,80.0,30.0,S,Caro,Mr,Barkworth,Algernon,1832,0,Sin Familia
+632,0,3ª Clase,Hombres,51.0,7.0542,S,Muy Barato,Mr,Lundahl,Johan,1861,0,Sin Familia
+633,1,1ª Clase,Hombres,32.0,30.5,C,Caro,Dr,Maeglin,Max,1880,0,Sin Familia
+634,0,1ª Clase,Hombres,32.0,0.0,S,Muy Barato,Mr,Parr,William,1880,0,Sin Familia
+635,0,3ª Clase,Mujeres,9.0,27.9,S,Caro,Miss,Skoog,Mabel,1903,5,Con Familia
+636,1,2ª Clase,Mujeres,28.0,13.0,S,Barato,Miss,Davis,Mary,1884,0,Sin Familia
+637,0,3ª Clase,Hombres,32.0,7.925,S,Barato,Mr,Leinonen,Antti,1880,0,Sin Familia
+638,0,2ª Clase,Hombres,31.0,26.25,S,Caro,Mr,Collyer,Harvey,1881,2,Con Familia
+639,0,3ª Clase,Mujeres,41.0,39.6875,S,Muy Caro,Mrs,Panula,Juha,1871,5,Con Familia
+640,0,3ª Clase,Hombres,32.0,16.1,S,Caro,Mr,Thorneycroft,Percival,1880,1,Con Familia
+641,0,3ª Clase,Hombres,20.0,7.8542,S,Muy Barato,Mr,Jensen,Hans,1892,0,Sin Familia
+642,1,1ª Clase,Mujeres,24.0,69.3,C,Muy Caro,Mlle,Sagesser,Emma,1888,0,Sin Familia
+643,0,3ª Clase,Mujeres,2.0,27.9,S,Caro,Miss,Skoog,Margit,1910,5,Con Familia
+644,1,3ª Clase,Hombres,32.0,56.4958,S,Muy Caro,Mr,Foo,Choong,1880,0,Sin Familia
+645,1,3ª Clase,Mujeres,0.75,19.2583,C,Caro,Miss,Baclini,Eugenie,1912,3,Con Familia
+646,1,1ª Clase,Hombres,48.0,76.7292,C,Muy Caro,Mr,Harper,Henry,1864,1,Con Familia
+647,0,3ª Clase,Hombres,19.0,7.8958,S,Muy Barato,Mr,Cor,Liudevit,1893,0,Sin Familia
+648,1,1ª Clase,Hombres,56.0,35.5,C,Muy Caro,Col,Blumer,Oberst,1856,0,Sin Familia
+649,0,3ª Clase,Hombres,32.0,7.55,S,Muy Barato,Mr,Willey,Edward,1880,0,Sin Familia
+650,1,3ª Clase,Mujeres,23.0,7.55,S,Muy Barato,Miss,Stanley,Amy,1889,0,Sin Familia
+651,0,3ª Clase,Hombres,32.0,7.8958,S,Muy Barato,Mr,Mitkoff,Mito,1880,0,Sin Familia
+652,1,2ª Clase,Mujeres,18.0,23.0,S,Caro,Miss,Doling,Elsie,1894,1,Con Familia
+653,0,3ª Clase,Hombres,21.0,8.4333,S,Barato,Mr,Kalvik,Johannes,1891,0,Sin Familia
+654,1,3ª Clase,Mujeres,22.0,7.8292,Q,Muy Barato,Miss,Leary,Hanora,1890,0,Sin Familia
+655,0,3ª Clase,Mujeres,18.0,6.75,Q,Muy Barato,Miss,Hegarty,Hanora,1894,0,Sin Familia
+656,0,2ª Clase,Hombres,24.0,73.5,S,Muy Caro,Mr,Hickman,Leonard,1888,2,Con Familia
+657,0,3ª Clase,Hombres,32.0,7.8958,S,Muy Barato,Mr,Radeff,Alexander,1880,0,Sin Familia
+658,0,3ª Clase,Mujeres,32.0,15.5,Q,Caro,Mrs,Bourke,John,1880,2,Con Familia
+659,0,2ª Clase,Hombres,23.0,13.0,S,Barato,Mr,Eitemiller,George,1889,0,Sin Familia
+660,0,1ª Clase,Hombres,58.0,113.275,C,Muy Caro,Mr,Newell,Arthur,1854,2,Con Familia
+661,1,1ª Clase,Hombres,50.0,133.65,S,Muy Caro,Dr,Frauenthal,Henry,1862,2,Con Familia
+662,0,3ª Clase,Hombres,40.0,7.225,C,Muy Barato,Mr,Badt,Mohamed,1872,0,Sin Familia
+663,0,1ª Clase,Hombres,47.0,25.5875,S,Caro,Mr,Colley,Edward,1865,0,Sin Familia
+664,0,3ª Clase,Hombres,36.0,7.4958,S,Muy Barato,Mr,Coleff,Peju,1876,0,Sin Familia
+665,1,3ª Clase,Hombres,20.0,7.925,S,Barato,Mr,Lindqvist,Eino,1892,1,Con Familia
+666,0,2ª Clase,Hombres,32.0,73.5,S,Muy Caro,Mr,Hickman,Lewis,1880,2,Con Familia
+667,0,2ª Clase,Hombres,25.0,13.0,S,Barato,Mr,Butler,Reginald,1887,0,Sin Familia
+668,0,3ª Clase,Hombres,32.0,7.775,S,Muy Barato,Mr,Rommetvedt,Knud,1880,0,Sin Familia
+669,0,3ª Clase,Hombres,43.0,8.05,S,Barato,Mr,Cook,Jacob,1869,0,Sin Familia
+670,1,1ª Clase,Mujeres,36.0,52.0,S,Muy Caro,Mrs,Taylor,Elmer,1876,1,Con Familia
+671,1,2ª Clase,Mujeres,40.0,39.0,S,Muy Caro,Mrs,Brown,Thomas,1872,2,Con Familia
+672,0,1ª Clase,Hombres,31.0,52.0,S,Muy Caro,Mr,Davidson,Thornton,1881,1,Con Familia
+673,0,2ª Clase,Hombres,70.0,10.5,S,Barato,Mr,Mitchell,Henry,1842,0,Sin Familia
+674,1,2ª Clase,Hombres,31.0,13.0,S,Barato,Mr,Wilhelms,Charles,1881,0,Sin Familia
+675,0,2ª Clase,Hombres,32.0,0.0,S,Muy Barato,Mr,Watson,Ennis,1880,0,Sin Familia
+676,0,3ª Clase,Hombres,18.0,7.775,S,Muy Barato,Mr,Edvardsson,Gustaf,1894,0,Sin Familia
+677,0,3ª Clase,Hombres,24.5,8.05,S,Barato,Mr,Sawyer,Frederick,1888,0,Sin Familia
+678,1,3ª Clase,Mujeres,18.0,9.8417,S,Barato,Miss,Turja,Anna,1894,0,Sin Familia
+679,0,3ª Clase,Mujeres,43.0,46.9,S,Muy Caro,Mrs,Goodwin,Frederick,1869,7,Con Familia
+680,1,1ª Clase,Hombres,36.0,512.3292,C,Muy Caro,Mr,Cardeza,Thomas,1876,1,Con Familia
+681,0,3ª Clase,Mujeres,22.0,8.1375,Q,Barato,Miss,Peters,Katie,1890,0,Sin Familia
+682,1,1ª Clase,Hombres,27.0,76.7292,C,Muy Caro,Mr,Hassab,Hammad,1885,0,Sin Familia
+683,0,3ª Clase,Hombres,20.0,9.225,S,Barato,Mr,Olsvigen,Thor,1892,0,Sin Familia
+684,0,3ª Clase,Hombres,14.0,46.9,S,Muy Caro,Mr,Goodwin,Charles,1898,7,Con Familia
+685,0,2ª Clase,Hombres,60.0,39.0,S,Muy Caro,Mr,Brown,Thomas,1852,2,Con Familia
+686,0,2ª Clase,Hombres,25.0,41.5792,C,Muy Caro,Mr,Laroche,Joseph,1887,3,Con Familia
+687,0,3ª Clase,Hombres,14.0,39.6875,S,Muy Caro,Mr,Panula,Jaako,1898,5,Con Familia
+688,0,3ª Clase,Hombres,19.0,10.1708,S,Barato,Mr,Dakic,Branko,1893,0,Sin Familia
+689,0,3ª Clase,Hombres,18.0,7.7958,S,Muy Barato,Mr,Fischer,Eberhard,1894,0,Sin Familia
+690,1,1ª Clase,Mujeres,15.0,211.3375,S,Muy Caro,Miss,Madill,Georgette,1897,1,Con Familia
+691,1,1ª Clase,Hombres,31.0,57.0,S,Muy Caro,Mr,Dick,Albert,1881,1,Con Familia
+692,1,3ª Clase,Mujeres,4.0,13.4167,C,Barato,Miss,Karun,Manca,1908,1,Con Familia
+693,1,3ª Clase,Hombres,32.0,56.4958,S,Muy Caro,Mr,Lam,Ali,1880,0,Sin Familia
+694,0,3ª Clase,Hombres,25.0,7.225,C,Muy Barato,Mr,Saad,Khalil,1887,0,Sin Familia
+695,0,1ª Clase,Hombres,60.0,26.55,S,Caro,Col,Weir,John,1852,0,Sin Familia
+696,0,2ª Clase,Hombres,52.0,13.5,S,Barato,Mr,Chapman,Charles,1860,0,Sin Familia
+697,0,3ª Clase,Hombres,44.0,8.05,S,Barato,Mr,Kelly,James,1868,0,Sin Familia
+698,1,3ª Clase,Mujeres,22.0,7.7333,Q,Muy Barato,Miss,Mullens,Katherine,1890,0,Sin Familia
+699,0,1ª Clase,Hombres,49.0,110.8833,C,Muy Caro,Mr,Thayer,John,1863,2,Con Familia
+700,0,3ª Clase,Hombres,42.0,7.65,S,Muy Barato,Mr,Humblen,Adolf,1870,0,Sin Familia
+701,1,1ª Clase,Mujeres,18.0,227.525,C,Muy Caro,Mrs,Astor,John,1894,1,Con Familia
+702,1,1ª Clase,Hombres,35.0,26.2875,S,Caro,Mr,Silverthorne,Spencer,1877,0,Sin Familia
+703,0,3ª Clase,Mujeres,18.0,14.4542,C,Barato,Miss,Barbara,Saiide,1894,1,Con Familia
+704,0,3ª Clase,Hombres,25.0,7.7417,Q,Muy Barato,Mr,Gallagher,Martin,1887,0,Sin Familia
+705,0,3ª Clase,Hombres,26.0,7.8542,S,Muy Barato,Mr,Hansen,Henrik,1886,1,Con Familia
+706,0,2ª Clase,Hombres,39.0,26.0,S,Caro,Mr,Morley,Henry,1873,0,Sin Familia
+707,1,2ª Clase,Mujeres,45.0,13.5,S,Barato,Mrs,Kelly,Florence,1867,0,Sin Familia
+708,1,1ª Clase,Hombres,42.0,26.2875,S,Caro,Mr,Calderhead,Edward,1870,0,Sin Familia
+709,1,1ª Clase,Mujeres,22.0,151.55,S,Muy Caro,Miss,Cleaver,Alice,1890,0,Sin Familia
+710,1,3ª Clase,Hombres,5.0,15.2458,C,Caro,Master,Moubarek,Halim,1907,2,Con Familia
+711,1,1ª Clase,Mujeres,24.0,49.5042,C,Muy Caro,Mlle,Mayne,Berthe,1888,0,Sin Familia
+712,0,1ª Clase,Hombres,32.0,26.55,S,Caro,Mr,Klaber,Herman,1880,0,Sin Familia
+713,1,1ª Clase,Hombres,48.0,52.0,S,Muy Caro,Mr,Taylor,Elmer,1864,1,Con Familia
+714,0,3ª Clase,Hombres,29.0,9.4833,S,Barato,Mr,Larsson,August,1883,0,Sin Familia
+715,0,2ª Clase,Hombres,52.0,13.0,S,Barato,Mr,Greenberg,Samuel,1860,0,Sin Familia
+716,0,3ª Clase,Hombres,19.0,7.65,S,Muy Barato,Mr,Soholt,Peter,1893,0,Sin Familia
+717,1,1ª Clase,Mujeres,38.0,227.525,C,Muy Caro,Miss,Endres,Caroline,1874,0,Sin Familia
+718,1,2ª Clase,Mujeres,27.0,10.5,S,Barato,Miss,Troutt,Edwina,1885,0,Sin Familia
+719,0,3ª Clase,Hombres,32.0,15.5,Q,Caro,Mr,McEvoy,Michael,1880,0,Sin Familia
+720,0,3ª Clase,Hombres,33.0,7.775,S,Muy Barato,Mr,Johnson,Malkolm,1879,0,Sin Familia
+721,1,2ª Clase,Mujeres,6.0,33.0,S,Muy Caro,Miss,Harper,Annie,1906,1,Con Familia
+722,0,3ª Clase,Hombres,17.0,7.0542,S,Muy Barato,Mr,Jensen,Svend,1895,1,Con Familia
+723,0,2ª Clase,Hombres,34.0,13.0,S,Barato,Mr,Gillespie,William,1878,0,Sin Familia
+724,0,2ª Clase,Hombres,50.0,13.0,S,Barato,Mr,Hodges,Henry,1862,0,Sin Familia
+725,1,1ª Clase,Hombres,27.0,53.1,S,Muy Caro,Mr,Chambers,Norman,1885,1,Con Familia
+726,0,3ª Clase,Hombres,20.0,8.6625,S,Barato,Mr,Oreskovic,Luka,1892,0,Sin Familia
+727,1,2ª Clase,Mujeres,30.0,21.0,S,Caro,Mrs,Renouf,Peter,1882,3,Con Familia
+728,1,3ª Clase,Mujeres,22.0,7.7375,Q,Muy Barato,Miss,Mannion,Margareth,1890,0,Sin Familia
+729,0,2ª Clase,Hombres,25.0,26.0,S,Caro,Mr,Bryhl,Kurt,1887,1,Con Familia
+730,0,3ª Clase,Mujeres,25.0,7.925,S,Barato,Miss,Ilmakangas,Pieta,1887,1,Con Familia
+731,1,1ª Clase,Mujeres,29.0,211.3375,S,Muy Caro,Miss,Allen,Elisabeth,1883,0,Sin Familia
+732,0,3ª Clase,Hombres,11.0,18.7875,C,Caro,Mr,Hassan,Houssein,1901,0,Sin Familia
+733,0,2ª Clase,Hombres,32.0,0.0,S,Muy Barato,Mr,Knight,Robert,1880,0,Sin Familia
+734,0,2ª Clase,Hombres,23.0,13.0,S,Barato,Mr,Berriman,William,1889,0,Sin Familia
+735,0,2ª Clase,Hombres,23.0,13.0,S,Barato,Mr,Troupiansky,Moses,1889,0,Sin Familia
+736,0,3ª Clase,Hombres,28.5,16.1,S,Caro,Mr,Williams,Leslie,1884,0,Sin Familia
+737,0,3ª Clase,Mujeres,48.0,34.375,S,Muy Caro,Mrs,Ford,Edward,1864,4,Con Familia
+738,1,1ª Clase,Hombres,35.0,512.3292,C,Muy Caro,Mr,Lesurer,Gustave,1877,0,Sin Familia
+739,0,3ª Clase,Hombres,32.0,7.8958,S,Muy Barato,Mr,Ivanoff,Kanio,1880,0,Sin Familia
+740,0,3ª Clase,Hombres,32.0,7.8958,S,Muy Barato,Mr,Nankoff,Minko,1880,0,Sin Familia
+741,1,1ª Clase,Hombres,32.0,30.0,S,Caro,Mr,Hawksford,Walter,1880,0,Sin Familia
+742,0,1ª Clase,Hombres,36.0,78.85,S,Muy Caro,Mr,Cavendish,Tyrell,1876,1,Con Familia
+743,1,1ª Clase,Mujeres,21.0,262.375,C,Muy Caro,Miss,Ryerson,Susan,1891,4,Con Familia
+744,0,3ª Clase,Hombres,24.0,16.1,S,Caro,Mr,McNamee,Neal,1888,1,Con Familia
+745,1,3ª Clase,Hombres,31.0,7.925,S,Barato,Mr,Stranden,Juho,1881,0,Sin Familia
+746,0,1ª Clase,Hombres,70.0,71.0,S,Muy Caro,Capt,Crosby,Edward,1842,2,Con Familia
+747,0,3ª Clase,Hombres,16.0,20.25,S,Caro,Mr,Abbott,Rossmore,1896,2,Con Familia
+748,1,2ª Clase,Mujeres,30.0,13.0,S,Barato,Miss,Sinkkonen,Anna,1882,0,Sin Familia
+749,0,1ª Clase,Hombres,19.0,53.1,S,Muy Caro,Mr,Marvin,Daniel,1893,1,Con Familia
+750,0,3ª Clase,Hombres,31.0,7.75,Q,Muy Barato,Mr,Connaghton,Michael,1881,0,Sin Familia
+751,1,2ª Clase,Mujeres,4.0,23.0,S,Caro,Miss,Wells,Joan,1908,2,Con Familia
+752,1,3ª Clase,Hombres,6.0,12.475,S,Barato,Master,Moor,Meier,1906,1,Con Familia
+753,0,3ª Clase,Hombres,33.0,9.5,S,Barato,Mr,Velde,Johannes,1879,0,Sin Familia
+754,0,3ª Clase,Hombres,23.0,7.8958,S,Muy Barato,Mr,Jonkoff,Lalio,1889,0,Sin Familia
+755,1,2ª Clase,Mujeres,48.0,65.0,S,Muy Caro,Mrs,Herman,Samuel,1864,3,Con Familia
+756,1,2ª Clase,Hombres,0.67,14.5,S,Caro,Master,Hamalainen,Viljo,1912,2,Con Familia
+757,0,3ª Clase,Hombres,28.0,7.7958,S,Muy Barato,Mr,Carlsson,August,1884,0,Sin Familia
+758,0,2ª Clase,Hombres,18.0,11.5,S,Barato,Mr,Bailey,Percy,1894,0,Sin Familia
+759,0,3ª Clase,Hombres,34.0,8.05,S,Barato,Mr,Theobald,Thomas,1878,0,Sin Familia
+760,1,1ª Clase,Mujeres,33.0,86.5,S,Muy Caro,Countess,Rothes,of,1879,0,Sin Familia
+761,0,3ª Clase,Hombres,32.0,14.5,S,Caro,Mr,Garfirth,John,1880,0,Sin Familia
+762,0,3ª Clase,Hombres,41.0,7.125,S,Muy Barato,Mr,Nirva,Iisakki,1871,0,Sin Familia
+763,1,3ª Clase,Hombres,20.0,7.2292,C,Muy Barato,Mr,Barah,Hanna,1892,0,Sin Familia
+764,1,1ª Clase,Mujeres,36.0,120.0,S,Muy Caro,Mrs,Carter,William,1876,3,Con Familia
+765,0,3ª Clase,Hombres,16.0,7.775,S,Muy Barato,Mr,Eklund,Hans,1896,0,Sin Familia
+766,1,1ª Clase,Mujeres,51.0,77.9583,S,Muy Caro,Mrs,Hogeboom,John,1861,1,Con Familia
+767,0,1ª Clase,Hombres,41.0,39.6,C,Muy Caro,Dr,Brewe,Arthur,1871,0,Sin Familia
+768,0,3ª Clase,Mujeres,30.5,7.75,Q,Muy Barato,Miss,Mangan,Mary,1882,0,Sin Familia
+769,0,3ª Clase,Hombres,32.0,24.15,Q,Caro,Mr,Moran,Daniel,1880,1,Con Familia
+770,0,3ª Clase,Hombres,32.0,8.3625,S,Barato,Mr,Gronnestad,Daniel,1880,0,Sin Familia
+771,0,3ª Clase,Hombres,24.0,9.5,S,Barato,Mr,Lievens,Rene,1888,0,Sin Familia
+772,0,3ª Clase,Hombres,48.0,7.8542,S,Muy Barato,Mr,Jensen,Niels,1864,0,Sin Familia
+773,0,2ª Clase,Mujeres,57.0,10.5,S,Barato,Mrs,Mack,,1855,0,Sin Familia
+774,0,3ª Clase,Hombres,32.0,7.225,C,Muy Barato,Mr,Elias,Dibo,1880,0,Sin Familia
+775,1,2ª Clase,Mujeres,54.0,23.0,S,Caro,Mrs,Hocking,Elizabeth,1858,4,Con Familia
+776,0,3ª Clase,Hombres,18.0,7.75,S,Muy Barato,Mr,Myhrman,Pehr,1894,0,Sin Familia
+777,0,3ª Clase,Hombres,32.0,7.75,Q,Muy Barato,Mr,Tobin,Roger,1880,0,Sin Familia
+778,1,3ª Clase,Mujeres,5.0,12.475,S,Barato,Miss,Emanuel,Virginia,1907,0,Sin Familia
+779,0,3ª Clase,Hombres,32.0,7.7375,Q,Muy Barato,Mr,Kilgannon,Thomas,1880,0,Sin Familia
+780,1,1ª Clase,Mujeres,43.0,211.3375,S,Muy Caro,Mrs,Robert,Edward,1869,1,Con Familia
+781,1,3ª Clase,Mujeres,13.0,7.2292,C,Muy Barato,Miss,Ayoub,Banoura,1899,0,Sin Familia
+782,1,1ª Clase,Mujeres,17.0,57.0,S,Muy Caro,Mrs,Dick,Albert,1895,1,Con Familia
+783,0,1ª Clase,Hombres,29.0,30.0,S,Caro,Mr,Long,Milton,1883,0,Sin Familia
+784,0,3ª Clase,Hombres,32.0,23.45,S,Caro,Mr,Johnston,Andrew,1880,3,Con Familia
+785,0,3ª Clase,Hombres,25.0,7.05,S,Muy Barato,Mr,Ali,William,1887,0,Sin Familia
+786,0,3ª Clase,Hombres,25.0,7.25,S,Muy Barato,Mr,Harmer,Abraham,1887,0,Sin Familia
+787,1,3ª Clase,Mujeres,18.0,7.4958,S,Muy Barato,Miss,Sjoblom,Anna,1894,0,Sin Familia
+788,0,3ª Clase,Hombres,8.0,29.125,Q,Caro,Master,Rice,George,1904,5,Con Familia
+789,1,3ª Clase,Hombres,1.0,20.575,S,Caro,Master,Dean,Bertram,1911,3,Con Familia
+790,0,1ª Clase,Hombres,46.0,79.2,C,Muy Caro,Mr,Guggenheim,Benjamin,1866,0,Sin Familia
+791,0,3ª Clase,Hombres,32.0,7.75,Q,Muy Barato,Mr,Keane,Andrew,1880,0,Sin Familia
+792,0,2ª Clase,Hombres,16.0,26.0,S,Caro,Mr,Gaskell,Alfred,1896,0,Sin Familia
+793,0,3ª Clase,Mujeres,22.0,69.55,S,Muy Caro,Miss,Sage,Stella,1890,10,Con Familia
+794,0,1ª Clase,Hombres,32.0,30.6958,C,Caro,Mr,Hoyt,William,1880,0,Sin Familia
+795,0,3ª Clase,Hombres,25.0,7.8958,S,Muy Barato,Mr,Dantcheff,Ristiu,1887,0,Sin Familia
+796,0,2ª Clase,Hombres,39.0,13.0,S,Barato,Mr,Otter,Richard,1873,0,Sin Familia
+797,1,1ª Clase,Mujeres,49.0,25.9292,S,Caro,Dr,Leader,Alice,1863,0,Sin Familia
+798,1,3ª Clase,Mujeres,31.0,8.6833,S,Barato,Mrs,Osman,Mara,1881,0,Sin Familia
+799,0,3ª Clase,Hombres,30.0,7.2292,C,Muy Barato,Mr,Shawah,Yousseff,1882,0,Sin Familia
+800,0,3ª Clase,Mujeres,30.0,24.15,S,Caro,Mrs,Impe,Jean,1882,2,Con Familia
+801,0,2ª Clase,Hombres,34.0,13.0,S,Barato,Mr,Ponesell,Martin,1878,0,Sin Familia
+802,1,2ª Clase,Mujeres,31.0,26.25,S,Caro,Mrs,Collyer,Harvey,1881,2,Con Familia
+803,1,1ª Clase,Hombres,11.0,120.0,S,Muy Caro,Master,Carter,William,1901,3,Con Familia
+804,1,3ª Clase,Hombres,0.42,8.5167,C,Barato,Master,Thomas,Assad,1912,1,Con Familia
+805,1,3ª Clase,Hombres,27.0,6.975,S,Muy Barato,Mr,Hedman,Oskar,1885,0,Sin Familia
+806,0,3ª Clase,Hombres,31.0,7.775,S,Muy Barato,Mr,Johansson,Karl,1881,0,Sin Familia
+807,0,1ª Clase,Hombres,39.0,0.0,S,Muy Barato,Mr,Andrews,Thomas,1873,0,Sin Familia
+808,0,3ª Clase,Mujeres,18.0,7.775,S,Muy Barato,Miss,Pettersson,Ellen,1894,0,Sin Familia
+809,0,2ª Clase,Hombres,39.0,13.0,S,Barato,Mr,Meyer,August,1873,0,Sin Familia
+810,1,1ª Clase,Mujeres,33.0,53.1,S,Muy Caro,Mrs,Chambers,Norman,1879,1,Con Familia
+811,0,3ª Clase,Hombres,26.0,7.8875,S,Muy Barato,Mr,Alexander,William,1886,0,Sin Familia
+812,0,3ª Clase,Hombres,39.0,24.15,S,Caro,Mr,Lester,James,1873,0,Sin Familia
+813,0,2ª Clase,Hombres,35.0,10.5,S,Barato,Mr,Slemen,Richard,1877,0,Sin Familia
+814,0,3ª Clase,Mujeres,6.0,31.275,S,Muy Caro,Miss,Andersson,Ebba,1906,6,Con Familia
+815,0,3ª Clase,Hombres,30.5,8.05,S,Barato,Mr,Tomlin,Ernest,1882,0,Sin Familia
+816,0,1ª Clase,Hombres,32.0,0.0,S,Muy Barato,Mr,Fry,Richard,1880,0,Sin Familia
+817,0,3ª Clase,Mujeres,23.0,7.925,S,Barato,Miss,Heininen,Wendla,1889,0,Sin Familia
+818,0,2ª Clase,Hombres,31.0,37.0042,C,Muy Caro,Mr,Mallet,Albert,1881,2,Con Familia
+819,0,3ª Clase,Hombres,43.0,6.45,S,Muy Barato,Mr,Holm,John,1869,0,Sin Familia
+820,0,3ª Clase,Hombres,10.0,27.9,S,Caro,Master,Skoog,Karl,1902,5,Con Familia
+821,1,1ª Clase,Mujeres,52.0,93.5,S,Muy Caro,Mrs,Hays,Charles,1860,2,Con Familia
+822,1,3ª Clase,Hombres,27.0,8.6625,S,Barato,Mr,Lulic,Nikola,1885,0,Sin Familia
+823,0,1ª Clase,Hombres,38.0,0.0,S,Muy Barato,Jonkheer,Reuchlin,John,1874,0,Sin Familia
+824,1,3ª Clase,Mujeres,27.0,12.475,S,Barato,Mrs,Moor,,1885,1,Con Familia
+825,0,3ª Clase,Hombres,2.0,39.6875,S,Muy Caro,Master,Panula,Urho,1910,5,Con Familia
+826,0,3ª Clase,Hombres,32.0,6.95,Q,Muy Barato,Mr,Flynn,John,1880,0,Sin Familia
+827,0,3ª Clase,Hombres,32.0,56.4958,S,Muy Caro,Mr,Lam,Len,1880,0,Sin Familia
+828,1,2ª Clase,Hombres,1.0,37.0042,C,Muy Caro,Master,Mallet,Andre,1911,2,Con Familia
+829,1,3ª Clase,Hombres,32.0,7.75,Q,Muy Barato,Mr,McCormack,Thomas,1880,0,Sin Familia
+830,1,1ª Clase,Mujeres,62.0,80.0,S,Muy Caro,Mrs,Stone,George,1850,0,Sin Familia
+831,1,3ª Clase,Mujeres,15.0,14.4542,C,Barato,Mrs,Yasbeck,Antoni,1897,1,Con Familia
+832,1,2ª Clase,Hombres,0.83,18.75,S,Caro,Master,Richards,George,1912,2,Con Familia
+833,0,3ª Clase,Hombres,32.0,7.2292,C,Muy Barato,Mr,Saad,Amin,1880,0,Sin Familia
+834,0,3ª Clase,Hombres,23.0,7.8542,S,Muy Barato,Mr,Augustsson,Albert,1889,0,Sin Familia
+835,0,3ª Clase,Hombres,18.0,8.3,S,Barato,Mr,Allum,Owen,1894,0,Sin Familia
+836,1,1ª Clase,Mujeres,39.0,83.1583,C,Muy Caro,Miss,Compton,Sara,1873,2,Con Familia
+837,0,3ª Clase,Hombres,21.0,8.6625,S,Barato,Mr,Pasic,Jakob,1891,0,Sin Familia
+838,0,3ª Clase,Hombres,32.0,8.05,S,Barato,Mr,Sirota,Maurice,1880,0,Sin Familia
+839,1,3ª Clase,Hombres,32.0,56.4958,S,Muy Caro,Mr,Chip,Chang,1880,0,Sin Familia
+840,1,1ª Clase,Hombres,32.0,29.7,C,Caro,Mr,Marechal,Pierre,1880,0,Sin Familia
+841,0,3ª Clase,Hombres,20.0,7.925,S,Barato,Mr,Alhomaki,Ilmari,1892,0,Sin Familia
+842,0,2ª Clase,Hombres,16.0,10.5,S,Barato,Mr,Mudd,Thomas,1896,0,Sin Familia
+843,1,1ª Clase,Mujeres,30.0,31.0,C,Caro,Miss,Serepeca,Augusta,1882,0,Sin Familia
+844,0,3ª Clase,Hombres,34.5,6.4375,C,Muy Barato,Mr,Lemberopolous,Peter,1878,0,Sin Familia
+845,0,3ª Clase,Hombres,17.0,8.6625,S,Barato,Mr,Culumovic,Jeso,1895,0,Sin Familia
+846,0,3ª Clase,Hombres,42.0,7.55,S,Muy Barato,Mr,Abbing,Anthony,1870,0,Sin Familia
+847,0,3ª Clase,Hombres,32.0,69.55,S,Muy Caro,Mr,Sage,Douglas,1880,10,Con Familia
+848,0,3ª Clase,Hombres,35.0,7.8958,C,Muy Barato,Mr,Markoff,Marin,1877,0,Sin Familia
+849,0,2ª Clase,Hombres,28.0,33.0,S,Muy Caro,Rev,Harper,John,1884,1,Con Familia
+850,1,1ª Clase,Mujeres,36.0,89.1042,C,Muy Caro,Mrs,Goldenberg,Samuel,1876,1,Con Familia
+851,0,3ª Clase,Hombres,4.0,31.275,S,Muy Caro,Master,Andersson,Sigvard,1908,6,Con Familia
+852,0,3ª Clase,Hombres,74.0,7.775,S,Muy Barato,Mr,Svensson,Johan,1838,0,Sin Familia
+853,0,3ª Clase,Mujeres,9.0,15.2458,C,Caro,Miss,Boulos,Nourelain,1903,2,Con Familia
+854,1,1ª Clase,Mujeres,16.0,39.4,S,Muy Caro,Miss,Lines,Mary,1896,1,Con Familia
+855,0,2ª Clase,Mujeres,44.0,26.0,S,Caro,Mrs,Carter,Ernest,1868,1,Con Familia
+856,1,3ª Clase,Mujeres,18.0,9.35,S,Barato,Mrs,Aks,Sam,1894,1,Con Familia
+857,1,1ª Clase,Mujeres,45.0,164.8667,S,Muy Caro,Mrs,Wick,George,1867,2,Con Familia
+858,1,1ª Clase,Hombres,51.0,26.55,S,Caro,Mr,Daly,Peter,1861,0,Sin Familia
+859,1,3ª Clase,Mujeres,24.0,19.2583,C,Caro,Mrs,Baclini,Solomon,1888,3,Con Familia
+860,0,3ª Clase,Hombres,32.0,7.2292,C,Muy Barato,Mr,Razi,Raihed,1880,0,Sin Familia
+861,0,3ª Clase,Hombres,41.0,14.1083,S,Barato,Mr,Hansen,Claus,1871,2,Con Familia
+862,0,2ª Clase,Hombres,21.0,11.5,S,Barato,Mr,Giles,Frederick,1891,1,Con Familia
+863,1,1ª Clase,Mujeres,48.0,25.9292,S,Caro,Mrs,Swift,Frederick,1864,0,Sin Familia
+864,0,3ª Clase,Mujeres,22.0,69.55,S,Muy Caro,Miss,Sage,Dorothy,1890,10,Con Familia
+865,0,2ª Clase,Hombres,24.0,13.0,S,Barato,Mr,Gill,John,1888,0,Sin Familia
+866,1,2ª Clase,Mujeres,42.0,13.0,S,Barato,Mrs,Bystrom,,1870,0,Sin Familia
+867,1,2ª Clase,Mujeres,27.0,13.8583,C,Barato,Miss,More,Asuncion,1885,1,Con Familia
+868,0,1ª Clase,Hombres,31.0,50.4958,S,Muy Caro,Mr,Roebling,Washington,1881,0,Sin Familia
+869,0,3ª Clase,Hombres,32.0,9.5,S,Barato,Mr,Melkebeke,Philemon,1880,0,Sin Familia
+870,1,3ª Clase,Hombres,4.0,11.1333,S,Barato,Master,Johnson,Harold,1908,2,Con Familia
+871,0,3ª Clase,Hombres,26.0,7.8958,S,Muy Barato,Mr,Balkic,Cerin,1886,0,Sin Familia
+872,1,1ª Clase,Mujeres,47.0,52.5542,S,Muy Caro,Mrs,Beckwith,Richard,1865,2,Con Familia
+873,0,1ª Clase,Hombres,33.0,5.0,S,Muy Barato,Mr,Carlsson,Frans,1879,0,Sin Familia
+874,0,3ª Clase,Hombres,47.0,9.0,S,Barato,Mr,Cruyssen,Victor,1865,0,Sin Familia
+875,1,2ª Clase,Mujeres,28.0,24.0,C,Caro,Mrs,Abelson,Samuel,1884,1,Con Familia
+876,1,3ª Clase,Mujeres,15.0,7.225,C,Muy Barato,Miss,Najib,Adele,1897,0,Sin Familia
+877,0,3ª Clase,Hombres,20.0,9.8458,S,Barato,Mr,Gustafsson,Alfred,1892,0,Sin Familia
+878,0,3ª Clase,Hombres,19.0,7.8958,S,Muy Barato,Mr,Petroff,Nedelio,1893,0,Sin Familia
+879,0,3ª Clase,Hombres,32.0,7.8958,S,Muy Barato,Mr,Laleff,Kristo,1880,0,Sin Familia
+880,1,1ª Clase,Mujeres,56.0,83.1583,C,Muy Caro,Mrs,Potter,Thomas,1856,1,Con Familia
+881,1,2ª Clase,Mujeres,25.0,26.0,S,Caro,Mrs,Shelley,William,1887,1,Con Familia
+882,0,3ª Clase,Hombres,33.0,7.8958,S,Muy Barato,Mr,Markun,Johann,1879,0,Sin Familia
+883,0,3ª Clase,Mujeres,22.0,10.5167,S,Barato,Miss,Dahlberg,Gerda,1890,0,Sin Familia
+884,0,2ª Clase,Hombres,28.0,10.5,S,Barato,Mr,Banfield,Frederick,1884,0,Sin Familia
+885,0,3ª Clase,Hombres,25.0,7.05,S,Muy Barato,Mr,Sutehall,Henry,1887,0,Sin Familia
+886,0,3ª Clase,Mujeres,39.0,29.125,Q,Caro,Mrs,Rice,William,1873,5,Con Familia
+887,0,2ª Clase,Hombres,27.0,13.0,S,Barato,Rev,Montvila,Juozas,1885,0,Sin Familia
+888,1,1ª Clase,Mujeres,19.0,30.0,S,Caro,Miss,Graham,Margaret,1893,0,Sin Familia
+889,0,3ª Clase,Mujeres,22.0,23.45,S,Caro,Miss,Johnston,Catherine,1890,3,Con Familia
+890,1,1ª Clase,Hombres,26.0,30.0,C,Caro,Mr,Behr,Karl,1886,0,Sin Familia
+891,0,3ª Clase,Hombres,32.0,7.75,Q,Muy Barato,Mr,Dooley,Patrick,1880,0,Sin Familia

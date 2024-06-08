@@ -1,0 +1,7 @@
+[client]
+showSidebarNavigation = false
+toolbarMode = "minimal"
+[theme]
+base="dark"
+primaryColor="#0033F9"
+
