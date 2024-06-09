@@ -20,7 +20,7 @@ La estructura del proyecto es la siguiente:
 
 - `datos/`: Contiene el conjunto de datos del Titanic.
 - `img/`: Contiene las imágenes necesarias. 
-- `app/`: El archivo principal que ejecuta la aplicación Streamlit.
+- `app.py`: El archivo principal que ejecuta la aplicación Streamlit.
 
 
 
