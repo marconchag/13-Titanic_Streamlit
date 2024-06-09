@@ -1,8 +1,9 @@
-streamlit
-pandas
-seaborn
-matplotlib
-numpy
-plotly
-wordcloud
-Pillow
+streamlit==1.31.1
+pandas==2.1.4
+seaborn==0.13.1
+matplotlib==3.7.5
+numpy==1.26.4
+plotly==5.18.0
+plotly-express==0.4.1
+wordcloud==1.9.3
+Pillow==10.1.0
